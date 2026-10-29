@@ -24,3 +24,13 @@ query,requête,استعلام,isti3lam,formal; borrowed "requête" common in SQL
 table,table,جدول,jadwal,also means timetable/schedule
 column,colonne,عمود,3amoud,everyday word also means pillar
 row,ligne,سطر,satr,means a line of text
+index,index,فهرس,fihris,formal; borrowed "index" dominates in SQL classes
+schema,schéma,مخطط,mokhattat,formal; borrowed "schéma" dominates
+commit,commit,التزام,iltizam,formal; borrowed "commit" is what devs actually say
+branch,branche,فرع,far3,borrowed "branche" dominates in git talk
+merge,fusion,دمج,damj,borrowed "merge" also used as-is
+repository,dépôt,مستودع,mostawda3,formal; borrowed "repo" dominates
+deployment,déploiement,نشر,nachr,borrowed "déploiement" is common
+cache,cache,ذاكرة التخزين المؤقت,dakirat t-takhzin l-mo2aqqat,formal; borrowed "cache" dominates
+token,jeton,رمز,ramz,borrowed "token" dominates in API and auth talk
+log,journal,سجل,sijill,borrowed "log" dominates; plural "les logs"
