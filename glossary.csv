@@ -39,3 +39,8 @@ data warehouse,entrepôt de données,مستودع المعطيات,mostawda3 l-m
 ETL,ETL,استخراج وتحويل وتحميل,istikhrraj wa tahwil wa tahmil,"acronym used as-is; extract, transform, load"
 batch,traitement par lots,معالجة بالدفعات,mo3alaja b-d-dofa3at,"formal; borrowed ""batch"" dominates"
 streaming,flux en continu,البث المباشر للمعطيات,l-bath l-mobachir l-ma3loumat,"borrowed ""streaming"" dominates"
+validation,validation,التحقق,t-tahaqqoq,"formal; borrowed ""validation"" is common"
+outlier,valeur aberrante,قيمة شاذة,qima chadha,"formal; borrowed ""outlier"" dominates in ML talk"
+duplicate,doublon,نسخة مكررة,noskha mokarrara,"borrowed ""doublon"" is common"
+missing value,valeur manquante,قيمة ناقصة,qima naqsa,"formal; ""les valeurs manquantes"" in class"
+feature,caractéristique,خاصية,khassiya,"formal; borrowed ""feature"" dominates in ML talk"
