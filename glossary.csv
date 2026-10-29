@@ -34,3 +34,8 @@ deployment,déploiement,نشر,nachr,borrowed "déploiement" is common
 cache,cache,ذاكرة التخزين المؤقت,dakirat t-takhzin l-mo2aqqat,formal; borrowed "cache" dominates
 token,jeton,رمز,ramz,borrowed "token" dominates in API and auth talk
 log,journal,سجل,sijill,borrowed "log" dominates; plural "les logs"
+dataset,jeu de données,مجموعة المعطيات,majmou3at l-ma3loumat,"formal; borrowed ""dataset"" dominates"
+data warehouse,entrepôt de données,مستودع المعطيات,mostawda3 l-ma3loumat,"formal; borrowed ""data warehouse"" dominates"
+ETL,ETL,استخراج وتحويل وتحميل,istikhrraj wa tahwil wa tahmil,"acronym used as-is; extract, transform, load"
+batch,traitement par lots,معالجة بالدفعات,mo3alaja b-d-dofa3at,"formal; borrowed ""batch"" dominates"
+streaming,flux en continu,البث المباشر للمعطيات,l-bath l-mobachir l-ma3loumat,"borrowed ""streaming"" dominates"
