@@ -44,3 +44,8 @@ outlier,valeur aberrante,قيمة شاذة,qima chadha,"formal; borrowed ""outli
 duplicate,doublon,نسخة مكررة,noskha mokarrara,"borrowed ""doublon"" is common"
 missing value,valeur manquante,قيمة ناقصة,qima naqsa,"formal; ""les valeurs manquantes"" in class"
 feature,caractéristique,خاصية,khassiya,"formal; borrowed ""feature"" dominates in ML talk"
+frontend,interface utilisateur,الواجهة الأمامية,l-wajiha l-2amamiya,borrowed 'frontend' dominates in dev talk
+backend,partie serveur,الواجهة الخلفية,l-wajiha l-khalfiya,borrowed 'backend' dominates in dev talk
+API,interface de programmation,واجهة برمجة التطبيقات,wajihat barmajat t-tatbiqat,borrowed 'API' used as-is
+framework,cadre de développement,إطار عمل,itar 3amal,borrowed 'framework' dominates in dev talk
+library,bibliothèque,مكتبة,maktaba,borrowed 'library' also common
