@@ -59,3 +59,8 @@ function,fonction,دالة,dalla,formal; borrowed 'fonction' dominates
 loop,boucle,حلقة,halqa,borrowed 'loop' also common
 condition,condition,شرط,chart,formal; borrowed 'condition' is common
 array,tableau,مصفوفة,masfoufa,formal; borrowed 'array' dominates in code talk
+model,modèle,نموذج,namoudaj,borrowed 'model' dominates in ML talk
+training,entraînement,تدريب,tadrib,formal; borrowed 'training' is common
+prompt,invite,موجه,mowajjih,borrowed 'prompt' used as-is
+inference,inférence,استدلال,istidlal,formal; borrowed 'inference' dominates
+chatbot,agent conversationnel,روبوت محادثة,robot mo7adatha,borrowed 'chatbot' dominates
