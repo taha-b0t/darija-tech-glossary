@@ -99,3 +99,8 @@ visualization,visualisation,التمثيل البصري,t-tamthil l-basari,forma
 metric,métrique,مقياس,miqyas,formal; borrowed "métrique" is common
 join,jointure,الربط,r-rabt,formal; borrowed "jointure" dominates in SQL classes
 primary key,clé primaire,مفتاح أساسي,miftah asasi,formal; borrowed "clé primaire" is common in SQL classes
+pull request,pull request,طلب دمج,talab damj,formal; borrowed "pull request" is what devs actually say
+code review,revue de code,مراجعة الكود,moraja3at l-code,borrowed "code review" dominates
+issue,problème,مشكلة,mochkila,borrowed "issue" dominates in GitHub talk
+release,version publiée,النسخة المنشورة,noskha l-monchora,formal; borrowed "release" dominates
+changelog,journal des modifications,سجل التغييرات,sijill t-taghyirat,formal; borrowed "changelog" dominates
