@@ -64,3 +64,8 @@ training,entraînement,تدريب,tadrib,formal; borrowed 'training' is common
 prompt,invite,موجه,mowajjih,borrowed 'prompt' used as-is
 inference,inférence,استدلال,istidlal,formal; borrowed 'inference' dominates
 chatbot,agent conversationnel,روبوت محادثة,robot mo7adatha,borrowed 'chatbot' dominates
+client,client,العميل,l-3amil,borrowed 'client' dominates in dev talk
+version,version,إصدار,isdar,borrowed 'version' dominates in dev talk
+debug,débogage,تصحيح الأخطاء,tas7i7 l-2akhta2,borrowed 'debug' dominates in dev talk
+compile,compilation,تجميع,tajmi3,borrowed 'compile' dominates in dev talk
+runtime,exécution,وقت التشغيل,waqt t-tachghil,borrowed 'runtime' dominates in dev talk
