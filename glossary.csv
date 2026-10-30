@@ -94,3 +94,8 @@ dependency,dépendance,تبعية,taba3iya,borrowed 'dependency' dominates in de
 documentation,documentation,توثيق,tawthiq,borrowed 'documentation' also common
 unit test,test unitaire,اختبار الوحدة,ikhtibar l-wa7da,borrowed 'unit test' dominates in dev talk
 open source,open source,مفتوح المصدر,maftou7 l-masdar,borrowed 'open source' dominates in dev talk
+data lake,lac de données,بحيرة المعطيات,bohayrat l-ma3loumat,formal; borrowed "data lake" dominates
+visualization,visualisation,التمثيل البصري,t-tamthil l-basari,formal; borrowed "visualisation" is common
+metric,métrique,مقياس,miqyas,formal; borrowed "métrique" is common
+join,jointure,الربط,r-rabt,formal; borrowed "jointure" dominates in SQL classes
+primary key,clé primaire,مفتاح أساسي,miftah asasi,formal; borrowed "clé primaire" is common in SQL classes
