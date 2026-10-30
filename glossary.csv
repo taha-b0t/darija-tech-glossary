@@ -70,7 +70,7 @@ debug,débogage,تصحيح الأخطاء,tas7i7 l-2akhta2,borrowed 'debug' domi
 compile,compilation,تجميع,tajmi3,borrowed 'compile' dominates in dev talk
 runtime,exécution,وقت التشغيل,waqt t-tachghil,borrowed 'runtime' dominates in dev talk
 syntax,syntaxe,الصياغة,s-siyagha,borrowed 'syntax' dominates in code talk
-error,erreur,خطأ,khata2,borrowed 'error' also common
+error,erreur,خطأ,khata2,same Darija word as bug; borrowed 'error' also common
 exception,exception,استثناء,istitna2,borrowed 'exception' dominates in code talk
 script,script,سكربت,skript,borrowed 'script' used as-is
 terminal,terminal,الطرفية,t-tarfiya,borrowed 'terminal' dominates in dev talk
