@@ -104,3 +104,8 @@ code review,revue de code,مراجعة الكود,moraja3at l-code,borrowed "cod
 issue,problème,مشكلة,mochkila,borrowed "issue" dominates in GitHub talk
 release,version publiée,النسخة المنشورة,noskha l-monchora,formal; borrowed "release" dominates
 changelog,journal des modifications,سجل التغييرات,sijill t-taghyirat,formal; borrowed "changelog" dominates
+virtual machine,machine virtuelle,آلة افتراضية,ala iftiradya,"formal; devs usually say ""la VM"""
+container,conteneur,حاوية,hawiya,"formal; borrowed ""container"" dominates in DevOps talk"
+load balancer,répartiteur de charge,موزع الحمل,mawazzi3 l-haml,"formal; borrowed ""load balancer"" is common"
+SSL certificate,certificat SSL,شهادة SSL,chahadat SSL,"borrowed ""certificat SSL"" used as-is"
+monitoring,supervision,مراقبة,mouraqaba,"formal; borrowed ""monitoring"" is common"
