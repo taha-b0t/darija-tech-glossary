@@ -139,3 +139,8 @@ voice call,appel vocal,مكالمة صوتية,moukalama sawtia,a phone or app c
 video call,appel vidéo,مكالمة فيديو,moukalama video,"a call with camera on, like on WhatsApp or Zoom"
 group chat,discussion de groupe,دردشة جماعية,dardacha jama3iya,a chat shared by several people
 attachment,pièce jointe,مرفق,mourfaq,a file sent along with a message or email
+phishing,hameçonnage,تصيد,tasayyoud,"fake messages trying to steal passwords; borrowed ""phishing"" dominates"
+malware,logiciel malveillant,برنامج خبيث,barnamaj khabith,software designed to harm a device or steal data
+virus,virus,فيروس,virus,malware that spreads by attaching to files or programs
+spam,pourriel,رسائل مزعجة,rassa2il moz3ija,"unwanted bulk messages, usually ads or scams"
+two-factor authentication,authentification à deux facteurs,المصادقة الثنائية,l-mousadaqa t-touna2iya,"a second check, like a code, after the password"
