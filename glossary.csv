@@ -1,39 +1,39 @@
 english,french,darija_arabic,darija_latin,notes
-computer,ordinateur,حاسوب,hasoub,formal; in conversation most people say "l-ordinateur" or "PC"
+computer,ordinateur,حاسوب,hasoub,"formal; in conversation most people say ""l-ordinateur"" or ""PC"""
 data,données,المعطيات,l-ma3loumat,formal term for data
-database,base de données,قاعدة المعطيات,qa3idat l-ma3loumat,formal; devs usually say "la base"
-server,serveur,الخادم,l-khadim,formal; borrowed "serveur" is common
+database,base de données,قاعدة المعطيات,qa3idat l-ma3loumat,"formal; devs usually say ""la base"""
+server,serveur,الخادم,l-khadim,"formal; borrowed ""serveur"" is common"
 file,fichier,الملف,l-malaff,everyday word also means a folder/dossier in admin contexts
-folder,dossier,المجلد,l-mojallad,formal; borrowed "dossier" dominates
+folder,dossier,المجلد,l-mojallad,"formal; borrowed ""dossier"" dominates"
 code,code,الكود,l-code,borrowed word used as-is
-bug,bogue,خطأ,khata2,means error; the borrowed "bug" is also heard
-network,réseau,الشبكة,ch-chabaka,formal; borrowed "réseau" is common
-cloud,cloud,السحابة,s-sahaba,formal; borrowed "cloud" dominates in tech talk
-password,mot de passe,كلمة السر,kalimat s-sirr,formal; borrowed "mot de passe" is common
+bug,bogue,خطأ,khata2,"means error; the borrowed ""bug"" is also heard"
+network,réseau,الشبكة,ch-chabaka,"formal; borrowed ""réseau"" is common"
+cloud,cloud,السحابة,s-sahaba,"formal; borrowed ""cloud"" dominates in tech talk"
+password,mot de passe,كلمة السر,kalimat s-sirr,"formal; borrowed ""mot de passe"" is common"
 screen,écran,الشاشة,ch-chacha,everyday word
-keyboard,clavier,لوحة المفاتيح,law7at l-mafatih,formal; borrowed "clavier" dominates
-mouse,souris,الفأرة,l-fa2ra,formal; borrowed "souris" dominates
+keyboard,clavier,لوحة المفاتيح,law7at l-mafatih,"formal; borrowed ""clavier"" dominates"
+mouse,souris,الفأرة,l-fa2ra,"formal; borrowed ""souris"" dominates"
 backup,sauvegarde,نسخة احتياطية,noskha ihtiyatiya,formal term understood by most
-update,mise à jour,تحديث,tahdith,formal; borrowed "mise à jour" is very common
+update,mise à jour,تحديث,tahdith,"formal; borrowed ""mise à jour"" is very common"
 download,télécharger,تحميل,tahmil,also means loading in general
-upload,téléverser,رفع,raf3,borrowed "upload" also used as-is
-algorithm,algorithme,خوارزمية,khawarizmiya,formal; borrowed "algorithme" common at school
-pipeline,pipeline,خط المعالجة,khatt l-mo3alaja,descriptive; borrowed "pipeline" dominates among devs
-dashboard,tableau de bord,لوحة القيادة,law7at l-qiyada,formal; borrowed "dashboard" dominates
-query,requête,استعلام,isti3lam,formal; borrowed "requête" common in SQL classes
+upload,téléverser,رفع,raf3,"borrowed ""upload"" also used as-is"
+algorithm,algorithme,خوارزمية,khawarizmiya,"formal; borrowed ""algorithme"" common at school"
+pipeline,pipeline,خط المعالجة,khatt l-mo3alaja,"descriptive; borrowed ""pipeline"" dominates among devs"
+dashboard,tableau de bord,لوحة القيادة,law7at l-qiyada,"formal; borrowed ""dashboard"" dominates"
+query,requête,استعلام,isti3lam,"formal; borrowed ""requête"" common in SQL classes"
 table,table,جدول,jadwal,also means timetable/schedule
 column,colonne,عمود,3amoud,everyday word also means pillar
 row,ligne,سطر,satr,means a line of text
-index,index,فهرس,fihris,formal; borrowed "index" dominates in SQL classes
-schema,schéma,مخطط,mokhattat,formal; borrowed "schéma" dominates
-commit,commit,التزام,iltizam,formal; borrowed "commit" is what devs actually say
-branch,branche,فرع,far3,borrowed "branche" dominates in git talk
-merge,fusion,دمج,damj,borrowed "merge" also used as-is
-repository,dépôt,مستودع,mostawda3,formal; borrowed "repo" dominates
-deployment,déploiement,نشر,nachr,borrowed "déploiement" is common
-cache,cache,ذاكرة التخزين المؤقت,dakirat t-takhzin l-mo2aqqat,formal; borrowed "cache" dominates
-token,jeton,رمز,ramz,borrowed "token" dominates in API and auth talk
-log,journal,سجل,sijill,borrowed "log" dominates; plural "les logs"
+index,index,فهرس,fihris,"formal; borrowed ""index"" dominates in SQL classes"
+schema,schéma,مخطط,mokhattat,"formal; borrowed ""schéma"" dominates"
+commit,commit,التزام,iltizam,"formal; borrowed ""commit"" is what devs actually say"
+branch,branche,فرع,far3,"borrowed ""branche"" dominates in git talk"
+merge,fusion,دمج,damj,"borrowed ""merge"" also used as-is"
+repository,dépôt,مستودع,mostawda3,"formal; borrowed ""repo"" dominates"
+deployment,déploiement,نشر,nachr,"borrowed ""déploiement"" is common"
+cache,cache,ذاكرة التخزين المؤقت,dakirat t-takhzin l-mo2aqqat,"formal; borrowed ""cache"" dominates"
+token,jeton,رمز,ramz,"borrowed ""token"" dominates in API and auth talk"
+log,journal,سجل,sijill,"borrowed ""log"" dominates; plural ""les logs"""
 dataset,jeu de données,مجموعة المعطيات,majmou3at l-ma3loumat,"formal; borrowed ""dataset"" dominates"
 data warehouse,entrepôt de données,مستودع المعطيات,mostawda3 l-ma3loumat,"formal; borrowed ""data warehouse"" dominates"
 ETL,ETL,استخراج وتحويل وتحميل,istikhrraj wa tahwil wa tahmil,"acronym used as-is; extract, transform, load"
@@ -94,16 +94,16 @@ dependency,dépendance,تبعية,taba3iya,borrowed 'dependency' dominates in de
 documentation,documentation,توثيق,tawthiq,borrowed 'documentation' also common
 unit test,test unitaire,اختبار الوحدة,ikhtibar l-wa7da,borrowed 'unit test' dominates in dev talk
 open source,open source,مفتوح المصدر,maftou7 l-masdar,borrowed 'open source' dominates in dev talk
-data lake,lac de données,بحيرة المعطيات,bohayrat l-ma3loumat,formal; borrowed "data lake" dominates
-visualization,visualisation,التمثيل البصري,t-tamthil l-basari,formal; borrowed "visualisation" is common
-metric,métrique,مقياس,miqyas,formal; borrowed "métrique" is common
-join,jointure,الربط,r-rabt,formal; borrowed "jointure" dominates in SQL classes
-primary key,clé primaire,مفتاح أساسي,miftah asasi,formal; borrowed "clé primaire" is common in SQL classes
-pull request,pull request,طلب دمج,talab damj,formal; borrowed "pull request" is what devs actually say
-code review,revue de code,مراجعة الكود,moraja3at l-code,borrowed "code review" dominates
-issue,problème,مشكلة,mochkila,borrowed "issue" dominates in GitHub talk
-release,version publiée,النسخة المنشورة,noskha l-monchora,formal; borrowed "release" dominates
-changelog,journal des modifications,سجل التغييرات,sijill t-taghyirat,formal; borrowed "changelog" dominates
+data lake,lac de données,بحيرة المعطيات,bohayrat l-ma3loumat,"formal; borrowed ""data lake"" dominates"
+visualization,visualisation,التمثيل البصري,t-tamthil l-basari,"formal; borrowed ""visualisation"" is common"
+metric,métrique,مقياس,miqyas,"formal; borrowed ""métrique"" is common"
+join,jointure,الربط,r-rabt,"formal; borrowed ""jointure"" dominates in SQL classes"
+primary key,clé primaire,مفتاح أساسي,miftah asasi,"formal; borrowed ""clé primaire"" is common in SQL classes"
+pull request,pull request,طلب دمج,talab damj,"formal; borrowed ""pull request"" is what devs actually say"
+code review,revue de code,مراجعة الكود,moraja3at l-code,"borrowed ""code review"" dominates"
+issue,problème,مشكلة,mochkila,"borrowed ""issue"" dominates in GitHub talk"
+release,version publiée,النسخة المنشورة,noskha l-monchora,"formal; borrowed ""release"" dominates"
+changelog,journal des modifications,سجل التغييرات,sijill t-taghyirat,"formal; borrowed ""changelog"" dominates"
 virtual machine,machine virtuelle,آلة افتراضية,ala iftiradya,"formal; devs usually say ""la VM"""
 container,conteneur,حاوية,hawiya,"formal; borrowed ""container"" dominates in DevOps talk"
 load balancer,répartiteur de charge,موزع الحمل,mawazzi3 l-haml,"formal; borrowed ""load balancer"" is common"
@@ -126,6 +126,11 @@ like,j'aime,إعجاب,i3jab,"borrowed ""like"" dominates"
 comment,commentaire,تعليق,ta3liq,"borrowed ""commentaire"" also used"
 shopping cart,panier,سلة التسوق,sella t-tassouq,"borrowed ""panier"" also used"
 checkout,caisse,إتمام الشراء,itmam ch-chira,"the final step of an online purchase, before payment"
-payment,paiement,الدفع,d-daf3,
+payment,paiement,الدفع,d-daf3,the act of paying for something
 invoice,facture,فاتورة,fatoura,"borrowed ""facture"" also used"
 subscription,abonnement,اشتراك,ichtirak,a recurring paid plan
+online course,cours en ligne,دورة,dawra,a structured course taken on the internet
+lesson,leçon,درس,ders,one unit of a course
+quiz,quiz,اختبار قصير,ikhtibar qasir,"borrowed ""quiz"" dominates; a short test"
+certificate,certificat,شهادة,chahada,proof of completing a course
+assignment,devoir,واجب,wajib,a task given by a teacher or course
