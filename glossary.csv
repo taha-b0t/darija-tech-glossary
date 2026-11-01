@@ -144,3 +144,8 @@ malware,logiciel malveillant,برنامج خبيث,barnamaj khabith,software des
 virus,virus,فيروس,virus,malware that spreads by attaching to files or programs
 spam,pourriel,رسائل مزعجة,rassa2il moz3ija,"unwanted bulk messages, usually ads or scams"
 two-factor authentication,authentification à deux facteurs,المصادقة الثنائية,l-mousadaqa t-touna2iya,"a second check, like a code, after the password"
+machine learning,apprentissage automatique,تعلم الآلة,ta3alloum l-ala,AI that learns patterns from data instead of fixed rules
+deep learning,apprentissage profond,التعلم العميق,ta3alloum l-3amiq,machine learning with multi-layer neural networks
+neural network,réseau de neurones,شبكة عصبية,chabaka 3asabiya,model inspired by connected neurons in a brain
+natural language processing,traitement du langage naturel,معالجة اللغة الطبيعية,mou3alajat l-loughra t-tabi3iya,AI that understands and generates human language
+generative AI,IA générative,الذكاء الاصطناعي التوليدي,d-daka2 s-tina3i t-tawlidi,AI that creates new text images or code
