@@ -159,3 +159,8 @@ view,vue,عرض,3ard,a saved query presented as a table; devs usually say "la vu
 trigger,déclencheur,محفز,muhafiz,code that runs automatically when a row is inserted updated or deleted
 transaction,transaction,معاملة,mu3amala,a group of operations that succeed or fail together
 stored procedure,procédure stockée,إجراء مخزن,ijra2 makhzoun,a saved set of SQL statements run on the database server
+hyperlink,lien hypertexte,رابط,rabit,clickable text or image that leads to another page; most people just say "lien"
+homepage,page d’accueil,الصفحة الرئيسية,s-safha r-ra2isiya,the first page of a website
+cookie,cookie,ملف تعريف الارتباط,cookie,a small file a site stores in the browser to remember you; everyone just says "cookie"
+URL,URL,عنوان الموقع,3onwan l-mawqi3,the web address of a page; devs say "URL" or "le lien"
+website,site web,موقع إلكتروني,mawqi3 iliktroni,a set of linked pages under one domain; most people say "site"
