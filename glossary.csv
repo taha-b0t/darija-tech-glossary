@@ -154,3 +154,8 @@ clipboard,presse-papiers,الحافظة,l-hafida,where copied text or images wai
 bookmark,marque-page,إشارة مرجعية,ichara marji3iya,a saved link to return to a page quickly
 dark mode,mode sombre,الوضع الداكن,l-wad3 d-dakin,light text on a dark background to rest the eyes
 wallpaper,fond d'écran,خلفية الشاشة,khalfiyat ch-chacha,the image behind the icons on a screen
+foreign key,clé étrangère,مفتاح أجنبي,miftah ajnabi,a column that links to the primary key of another table
+view,vue,عرض,3ard,a saved query presented as a table; devs usually say "la vue"
+trigger,déclencheur,محفز,muhafiz,code that runs automatically when a row is inserted updated or deleted
+transaction,transaction,معاملة,mu3amala,a group of operations that succeed or fail together
+stored procedure,procédure stockée,إجراء مخزن,ijra2 makhzoun,a saved set of SQL statements run on the database server
