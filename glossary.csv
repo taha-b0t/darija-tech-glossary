@@ -194,3 +194,8 @@ gallery,galerie,المعرض,l-ma3rid,where the phone keeps your photos and vide
 delete,supprimer,الحذف,l-hadf,removing a file or message
 restore,restaurer,الاستعادة,l-istirja3,bringing back a deleted file or an old backup
 install,installer,التثبيت,t-tatbit,putting a new app on the phone or computer
+copy,copier,نسخ,n-naskh,"duplicating text or a file; borrowed ""copier"" is common"
+paste,coller,لصق,l-lsa9,"inserting what you copied; borrowed ""coller"" is common"
+cut,couper,قص,l-9ass,removing text or a file to move it elsewhere
+undo,annuler,التراجع,t-tarajo3,"reversing the last action, usually Ctrl+Z"
+redo,refaire,الإعادة,l-i3ada,"re-doing an action you undid, usually Ctrl+Y"
