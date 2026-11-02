@@ -219,3 +219,8 @@ phone number,numéro de téléphone,رقم الهاتف,raqm l-hatif,the digits 
 dial,composer un numéro,طلب الرقم,talab r-raqm,entering a number to start a call
 voicemail,messagerie vocale,البريد الصوتي,l-barid s-sawti,the recorded message left when a call is missed
 conference call,appel en conférence,مكالمة جماعية,mokalama jama3iya,a call with several people at once
+privacy,confidentialité,الخصوصية,l-khososiya,keeping your personal data from being seen or shared
+permission,autorisation,الإذن,l-idn,what an app asks for before using the camera or contacts
+fingerprint,empreinte digitale,بصمة الإصبع,basmat l-isba3,unlocking the phone with a finger scan
+face unlock,déverrouillage facial,فتح الوجه,fath l-wajh,unlocking the phone by recognising your face
+PIN code,code PIN,الرمز السري,r-ramz s-sirri,the short numeric code that unlocks a phone or SIM
