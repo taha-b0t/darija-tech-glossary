@@ -329,3 +329,8 @@ DNS,DNS,دي إن إس,di en ess,"borrowed term; the system that turns a domain 
 CDN,CDN,سي دي إن,si di en,"borrowed term; a network of servers that delivers website content faster"
 web server,serveur web,خادم الويب,khadim l-web,"the software (or machine) that serves web pages to browsers"
 uptime,disponibilité,مدة التشغيل,moudat t-tachghil,"the time a service stays online without interruption"
+wireframe,wireframe,مخطط أولي,moukhattat awwali,"a bare-bones sketch of a page layout before design; devs say ""wireframe"""
+prototype,prototype,نموذج أولي,namoudaj awwali,"a working early version used to test an idea"
+mockup,maquette,نموذج تصميمي,namoudaj tasmimi,"a static visual of how the final design will look"
+user experience,expérience utilisateur,تجربة المستخدم,tajribat l-moustakhdim,"how easy and pleasant a product feels to use; often shortened to UX"
+usability,utilisabilité,سهولة الاستخدام,souhoulat l-istikhdam,"how easy a product is to learn and use"
