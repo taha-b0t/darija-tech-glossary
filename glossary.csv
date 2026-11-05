@@ -334,3 +334,8 @@ prototype,prototype,نموذج أولي,namoudaj awwali,"a working early version
 mockup,maquette,نموذج تصميمي,namoudaj tasmimi,"a static visual of how the final design will look"
 user experience,expérience utilisateur,تجربة المستخدم,tajribat l-moustakhdim,"how easy and pleasant a product feels to use; often shortened to UX"
 usability,utilisabilité,سهولة الاستخدام,souhoulat l-istikhdam,"how easy a product is to learn and use"
+sprint,sprint,سبرينت,sprint,"short work cycle in agile, usually 1-2 weeks"
+backlog,backlog,باكلوق,backlog,prioritised list of work to do
+kanban,kanban,كانبان,kanban,visual board method to manage work in progress
+agile,agile,أجايل,agile,iterative way of building software in small steps
+iteration,itération,تكرار,tikrar,one repeated cycle of building and improving
