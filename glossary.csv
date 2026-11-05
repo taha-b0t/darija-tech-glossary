@@ -339,3 +339,8 @@ backlog,backlog,باكلوق,backlog,prioritised list of work to do
 kanban,kanban,كانبان,kanban,visual board method to manage work in progress
 agile,agile,أجايل,agile,iterative way of building software in small steps
 iteration,itération,تكرار,tikrar,one repeated cycle of building and improving
+passkey,clé d'accès,مفتاح المرور,meftah l-morour,passwordless login using your device
+biometric,biométrique,بيومتري,biométri,"identification by fingerprint, face or voice"
+antivirus,antivirus,أنتيفيروس,antivirus,software that detects and removes malware
+vpn,VPN,في بي إن,VPN,encrypted tunnel that hides your internet traffic
+proxy,proxy,بروكسي,proxy,server that forwards your requests on your behalf
