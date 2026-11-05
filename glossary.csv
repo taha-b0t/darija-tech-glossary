@@ -309,3 +309,8 @@ breakpoint,point d'arrêt,نقطة توقف,noqtat tawaqquf,a marker that pauses
 stack trace,trace de pile,تتبع المكدس,tatabbo3 l-mukaddas,list of function calls that led to an error
 refactor,refactoriser,إعادة هيكلة الكود,i3adat haykalat l-code,restructuring code without changing what it does
 code snippet,extrait de code,مقتطف برمجي,muqtataf barmaji,short reusable piece of code
+report,rapport,تقرير,taqrir,a document that presents results or data
+export,exporter,تصدير,tasdir,saving data out of an app into a file
+import,importer,استيراد,istirad,bringing data from a file into an app
+data entry,saisie de données,إدخال المعطيات,idkhal l-ma3loumat,typing or adding data into a system
+pivot table,tableau croisé dynamique,جدول محوري,jadwal mihwari,a table that summarizes data by grouping and totals
