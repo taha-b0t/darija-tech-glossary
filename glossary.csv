@@ -324,3 +324,8 @@ scanner,scanner,ماسح ضوئي,masi7 daw2i,"a device that digitizes paper doc
 deploy,déployer,النشر,n-nachr,"to publish an app to a server; the noun deployment is نشر"
 serverless,sans serveur,بدون خادم,bidoun khadim,"running code without managing a server"
 console,console,جهاز الألعاب,jihaz l-al3ab,"a gaming console; also means a terminal in dev talk"
+hosting,hébergement,الاستضافة,l-istidafa,"the service that puts a website online; devs say ""l'hébergement"""
+DNS,DNS,دي إن إس,di en ess,"borrowed term; the system that turns a domain name into an IP address"
+CDN,CDN,سي دي إن,si di en,"borrowed term; a network of servers that delivers website content faster"
+web server,serveur web,خادم الويب,khadim l-web,"the software (or machine) that serves web pages to browsers"
+uptime,disponibilité,مدة التشغيل,moudat t-tachghil,"the time a service stays online without interruption"
