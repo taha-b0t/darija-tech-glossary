@@ -304,3 +304,8 @@ ethernet,ethernet,الإيثرنت,l-ethernet,borrowed term; wired network cable
 broadband,haut débit,الإنترنت عالي السرعة,l-internet 3ali s-sor3a,fast always-on internet connection
 SIM card,carte SIM,بطاقة SIM,bitaqat SIM,borrowed term; chip that identifies a phone on a mobile network
 roaming,itinérance,التجوال,t-tajawwol,using a mobile network abroad outside the home plan
+debugger,débogueur,أداة تصحيح الأخطاء,adat tashih l-akhtae,tool that finds and fixes bugs in code
+breakpoint,point d'arrêt,نقطة توقف,noqtat tawaqquf,a marker that pauses code execution at a chosen line while debugging
+stack trace,trace de pile,تتبع المكدس,tatabbo3 l-mukaddas,list of function calls that led to an error
+refactor,refactoriser,إعادة هيكلة الكود,i3adat haykalat l-code,restructuring code without changing what it does
+code snippet,extrait de code,مقتطف برمجي,muqtataf barmaji,short reusable piece of code
