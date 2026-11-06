@@ -369,3 +369,8 @@ kernel,noyau,النواة,n-nawa,the core of the operating system; devs say 'le 
 thread,thread,خيط,khayt,a lightweight unit of execution inside a process
 process,processus,عملية,3amaliya,a running program; devs say 'processus'
 boolean,booléen,منطقي,mantiqi,true or false; devs say 'booléen' or 'bool'
+regex,expression régulière,تعبير منتظم,ta3bir montadam,short for regular expression; devs say 'regex'
+null,nul,فارغ,farigh,a value meaning 'nothing here'; devs say 'null'
+integer,entier,عدد صحيح,3adad sahih,"a whole number, no decimals; devs say 'int'"
+float,flottant,عدد عشري,3adad 3achari,a number with decimals; devs say 'float'
+string,chaîne de caractères,سلسلة نصية,silsila nassiya,text; devs say 'string'
