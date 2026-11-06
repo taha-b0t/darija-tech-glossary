@@ -354,3 +354,8 @@ CSV,CSV,سي إس في,si es vi,"comma-separated values; a plain-text table form
 XML,XML,إكس إم إل,ex em el,"a markup format for structured data, older than JSON; devs say ""XML"""
 Markdown,Markdown,ماركداون,markdown,"a plain-text format for formatted documents, used in README files; devs say ""Markdown"""
 YAML,YAML,يامْل,yaml,"a human-readable format for configuration files; devs say ""YAML"""
+programming language,langage de programmation,لغة البرمجة,loghat l-barmaja,"the language code is written in, like Python or C"
+compiler,compilateur,المجمع,l-mojammi3,"translates source code into a program the machine runs; devs say ""compilateur"""
+interpreter,interpréteur,المفسر,l-mofassir,"runs code line by line without compiling first, like Python"
+object,objet,كائن,ka2in,"an instance of a class, bundling data and behaviour"
+class,classe,صنف,sinf,"a blueprint that defines objects; devs say ""classe"""
