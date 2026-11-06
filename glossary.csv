@@ -364,3 +364,8 @@ inheritance,héritage,الوراثة,l-wiratha,"a class reusing another class's 
 recursion,récursivité,الاستدعاء الذاتي,l-istid3a2 d-dati,"a function calling itself until it reaches a base case"
 stack,pile,كومة,kouma,"last-in first-out data structure; devs say ""stack"""
 queue,file d'attente,طابور,tabour,"first-in first-out data structure; devs say ""queue"""
+shell,shell,الغلاف,l-ghilaf,the command-line interpreter; devs say 'le shell'
+kernel,noyau,النواة,n-nawa,the core of the operating system; devs say 'le kernel'
+thread,thread,خيط,khayt,a lightweight unit of execution inside a process
+process,processus,عملية,3amaliya,a running program; devs say 'processus'
+boolean,booléen,منطقي,mantiqi,true or false; devs say 'booléen' or 'bool'
