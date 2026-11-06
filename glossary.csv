@@ -349,3 +349,8 @@ clone,cloner,استنساخ,istinsakh,"downloading a copy of a remote repository
 push,pousser,دفع,daf3,"sending your local commits up to the remote repository; devs say ""push"""
 pull,tirer,سحب,sa7b,"fetching changes from the remote repository into your local copy; devs say ""pull"""
 stash,mettre de côté,تخبئة,takhbi2a,"temporarily shelving uncommitted changes in git; devs say ""stash"""
+JSON,JSON,جيسون,jison,"a lightweight text format for structured data; devs say ""JSON"""
+CSV,CSV,سي إس في,si es vi,"comma-separated values; a plain-text table format; devs say ""CSV"""
+XML,XML,إكس إم إل,ex em el,"a markup format for structured data, older than JSON; devs say ""XML"""
+Markdown,Markdown,ماركداون,markdown,"a plain-text format for formatted documents, used in README files; devs say ""Markdown"""
+YAML,YAML,يامْل,yaml,"a human-readable format for configuration files; devs say ""YAML"""
