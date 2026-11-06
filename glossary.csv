@@ -344,3 +344,8 @@ biometric,biométrique,بيومتري,biométri,"identification by fingerprint, 
 antivirus,antivirus,أنتيفيروس,antivirus,software that detects and removes malware
 vpn,VPN,في بي إن,VPN,encrypted tunnel that hides your internet traffic
 proxy,proxy,بروكسي,proxy,server that forwards your requests on your behalf
+fork,fork,فورك,fork,"copying someone else's repository to your own GitHub account; borrowed ""fork"" is what devs say"
+clone,cloner,استنساخ,istinsakh,"downloading a copy of a remote repository to your machine; devs say ""clone"""
+push,pousser,دفع,daf3,"sending your local commits up to the remote repository; devs say ""push"""
+pull,tirer,سحب,sa7b,"fetching changes from the remote repository into your local copy; devs say ""pull"""
+stash,mettre de côté,تخبئة,takhbi2a,"temporarily shelving uncommitted changes in git; devs say ""stash"""
