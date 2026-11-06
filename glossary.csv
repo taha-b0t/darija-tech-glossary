@@ -374,3 +374,8 @@ null,nul,فارغ,farigh,a value meaning 'nothing here'; devs say 'null'
 integer,entier,عدد صحيح,3adad sahih,"a whole number, no decimals; devs say 'int'"
 float,flottant,عدد عشري,3adad 3achari,a number with decimals; devs say 'float'
 string,chaîne de caractères,سلسلة نصية,silsila nassiya,text; devs say 'string'
+data engineer,ingénieur de données,مهندس البيانات,mohandis l-bayanat,builds data pipelines and warehouses
+data analyst,analyste de données,محلل البيانات,mo7allil l-bayanat,turns data into reports and insights
+data scientist,data scientist,عالم البيانات,3alim l-bayanat,builds models from data; devs say 'data scientist'
+business intelligence,business intelligence,ذكاء الأعمال,daka' l-a3mal,using data to guide business decisions; devs say 'BI'
+KPI,indicateur clé de performance,مؤشر الأداء الرئيسي,mo'achir l-ada' r-ra'issi,key performance indicator; devs say 'KPI'
