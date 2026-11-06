@@ -359,3 +359,8 @@ compiler,compilateur,المجمع,l-mojammi3,"translates source code into a prog
 interpreter,interpréteur,المفسر,l-mofassir,"runs code line by line without compiling first, like Python"
 object,objet,كائن,ka2in,"an instance of a class, bundling data and behaviour"
 class,classe,صنف,sinf,"a blueprint that defines objects; devs say ""classe"""
+method,méthode,طريقة,tariqa,"a function that belongs to a class or object"
+inheritance,héritage,الوراثة,l-wiratha,"a class reusing another class's behaviour; devs say ""héritage"""
+recursion,récursivité,الاستدعاء الذاتي,l-istid3a2 d-dati,"a function calling itself until it reaches a base case"
+stack,pile,كومة,kouma,"last-in first-out data structure; devs say ""stack"""
+queue,file d'attente,طابور,tabour,"first-in first-out data structure; devs say ""queue"""
