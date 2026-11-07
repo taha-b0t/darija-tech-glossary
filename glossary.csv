@@ -394,3 +394,8 @@ status,statut,الحالة,l-hala,online or offline state shown in an app
 archive,archive,أرشيف,archive,to store old chats or files out of the way
 pin,épingler,تثبيت,tatbit,to keep a chat or message at the top of a list
 mute,mettre en sourdine,كتم الصوت,katm s-sawt,to silence notifications from a chat or call
+airflow,Airflow,إيرفلو,ayrflo,tool name used as-is; orchestrates data pipelines
+spark,Spark,سبارك,spark,tool name used as-is; distributed data processing engine
+kafka,Kafka,كافكا,kafka,tool name used as-is; streaming event platform
+docker,Docker,دوكر,docker,tool name used as-is; container platform
+kubernetes,Kubernetes,كوبيرنيتيس,kubernetes,tool name used as-is; container orchestration platform
