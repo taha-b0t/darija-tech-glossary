@@ -419,3 +419,8 @@ continuous deployment,déploiement continu,النشر المستمر,n-nashr l-m
 rollback,retour en arrière,الرجوع إلى النسخة السابقة,r-roujou3 ila n-noskha s-sabiqa,reverting a deploy to the previous version
 staging environment,environnement de préproduction,بيئة ما قبل الإنتاج,bi2a ma qabl l-intaj,where code is tested before production
 production environment,environnement de production,بيئة الإنتاج,bi2at l-intaj,"the live system real users use; often just ""la prod"""
+NoSQL,NoSQL,قاعدة بيانات لا علائقية,qa3idat bayanat la 3ala2iqiya,"non-relational database; devs just say ""NoSQL"""
+relational database,base de données relationnelle,قاعدة بيانات علائقية,qa3idat bayanat 3ala2iqiya,organized in tables with relations between them
+data migration,migration de données,ترحيل المعطيات,tarhil l-ma3loumat,moving data from one system or format to another
+record,enregistrement,سجل بيانات,sijil bayanat,"a single row in a table; devs usually say ""record"" or ""ligne"""
+integration test,test d'intégration,اختبار التكامل,ikhtibar t-takamol,checks that several parts work together
