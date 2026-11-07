@@ -409,3 +409,8 @@ data cleaning,nettoyage des données,تنقية المعطيات,tanqiyat l-ma3l
 data transformation,transformation des données,تحويل المعطيات,ta7wil l-ma3loumat,changing data format or structure before loading it
 feature engineering,ingénierie des caractéristiques,هندسة الخصائص,handasat l-khasa2is,building useful input features for a machine learning model
 large language model,grand modèle de langage,نموذج لغوي كبير,namodaj loghawi kbir,"an AI model trained on large amounts of text, like GPT or Claude"
+password manager,gestionnaire de mots de passe,مدير كلمات السر,modir kalimat s-serr,an app that stores and fills in passwords securely
+ransomware,rançongiciel,برنامج الفدية,barnamaj l-fidya,malware that locks files until a ransom is paid
+data breach,fuite de données,تسريب المعطيات,tasrib l-ma3loumat,exposure of private data to unauthorized people
+vulnerability,vulnérabilité,ثغرة أمنية,thoghra amniya,a weakness in software that attackers can exploit
+social engineering,ingénierie sociale,الهندسة الاجتماعية,l-handasa l-ijtima3iya,tricking people into revealing confidential information
