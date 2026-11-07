@@ -384,3 +384,8 @@ text editor,éditeur de texte,محرر النصوص,mo7arrir n-nosos,simple tool
 IDE,environnement de développement intégré,بيئة التطوير المتكاملة,bi'at t-tatwir l-motakamala,integrated development environment; devs say 'IDE'
 version control,contrôle de version,التحكم في الإصدارات,t-ta7akkom fi l-isdarat,tracking changes to code over time; Git is the standard tool
 source code,code source,الكود المصدري,l-code l-masdari,the human-readable instructions of a program
+orchestration,orchestration,تنسيق,tansiq,coordination of pipeline tasks; borrowed 'orchestration' dominates among devs
+data lineage,lignage des données,تتبع مصدر البيانات,tatabbo3 masdar l-bayanat,tracking where data comes from and how it changes
+data catalog,catalogue de données,فهرس البيانات,fahras l-bayanat,an inventory of the datasets available in an organization
+schema evolution,évolution de schéma,تطور المخطط,tatawwor l-mokhattat,how a table structure changes over time
+partition,partition,تقسيم,taqsim,splitting a table into parts; borrowed 'partition' dominates
