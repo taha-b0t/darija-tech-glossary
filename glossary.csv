@@ -414,3 +414,8 @@ ransomware,rançongiciel,برنامج الفدية,barnamaj l-fidya,malware that
 data breach,fuite de données,تسريب المعطيات,tasrib l-ma3loumat,exposure of private data to unauthorized people
 vulnerability,vulnérabilité,ثغرة أمنية,thoghra amniya,a weakness in software that attackers can exploit
 social engineering,ingénierie sociale,الهندسة الاجتماعية,l-handasa l-ijtima3iya,tricking people into revealing confidential information
+continuous integration,intégration continue,التكامل المستمر,t-takamol l-mostamir,"CI; devs usually just say ""CI"""
+continuous deployment,déploiement continu,النشر المستمر,n-nashr l-mostamir,"CD; devs usually just say ""CD"""
+rollback,retour en arrière,الرجوع إلى النسخة السابقة,r-roujou3 ila n-noskha s-sabiqa,reverting a deploy to the previous version
+staging environment,environnement de préproduction,بيئة ما قبل الإنتاج,bi2a ma qabl l-intaj,where code is tested before production
+production environment,environnement de production,بيئة الإنتاج,bi2at l-intaj,"the live system real users use; often just ""la prod"""
