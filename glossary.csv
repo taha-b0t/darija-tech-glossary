@@ -389,3 +389,8 @@ data lineage,lignage des données,تتبع مصدر البيانات,tatabbo3 ma
 data catalog,catalogue de données,فهرس البيانات,fahras l-bayanat,an inventory of the datasets available in an organization
 schema evolution,évolution de schéma,تطور المخطط,tatawwor l-mokhattat,how a table structure changes over time
 partition,partition,تقسيم,taqsim,splitting a table into parts; borrowed 'partition' dominates
+voice message,message vocal,رسالة صوتية,risala sawtia,a recorded voice note sent in a chat
+status,statut,الحالة,l-hala,online or offline state shown in an app
+archive,archive,أرشيف,archive,to store old chats or files out of the way
+pin,épingler,تثبيت,tatbit,to keep a chat or message at the top of a list
+mute,mettre en sourdine,كتم الصوت,katm s-sawt,to silence notifications from a chat or call
