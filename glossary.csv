@@ -399,3 +399,8 @@ spark,Spark,سبارك,spark,tool name used as-is; distributed data processing e
 kafka,Kafka,كافكا,kafka,tool name used as-is; streaming event platform
 docker,Docker,دوكر,docker,tool name used as-is; container platform
 kubernetes,Kubernetes,كوبيرنيتيس,kubernetes,tool name used as-is; container orchestration platform
+data pipeline,pipeline de données,خط أنابيب المعطيات,khatt anabib l-ma3loumat,"formal; borrowed ""data pipeline"" dominates among devs"
+data quality,qualité des données,جودة المعطيات,jawdat l-ma3loumat,formal term
+data governance,gouvernance des données,حوكمة المعطيات,hawkamat l-ma3loumat,formal term
+metadata,métadonnées,بيانات وصفية,bayanat wasfiya,"formal; borrowed ""metadata"" dominates"
+data mart,magasin de données,مخزن معطيات,makhzan ma3loumat,"formal; borrowed ""data mart"" dominates"
