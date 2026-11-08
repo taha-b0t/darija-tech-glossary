@@ -444,3 +444,8 @@ search history,historique de recherche,سجل البحث,sijil l-baht,the list o
 password reset,réinitialisation du mot de passe,إعادة تعيين كلمة المرور,i3adat ta3yin kalimat l-moror,getting a new password after forgetting the old one
 night mode,mode nuit,الوضع الليلي,l-wad3 l-layli,a dark display theme for low light
 user manual,manuel d'utilisation,دليل الاستخدام,dalil l-istikhdam,the guide explaining how to use something
+data lakehouse,lakehouse,بحيرة المعطيات الموحدة,bohayrat l-ma3loumat l-mowahhada,"a storage layer combining a data lake and a warehouse; devs say ""lakehouse"""
+schema registry,registre de schémas,سجل المخططات,sijil l-mokhattat,a central store that versions and validates data schemas
+stream processing,traitement en continu,معالجة التدفق,mo3alajat t-tadafoq,processing data record by record as it arrives instead of in batches
+data profiling,profilage de données,تنميط المعطيات,tanmit l-ma3loumat,inspecting a dataset to learn its types ranges and quality issues
+event-driven architecture,architecture événementielle,هندسة موجهة بالأحداث,handasa mowajjaha b-l-ahdath,software design where components react to events as they happen
