@@ -424,3 +424,8 @@ relational database,base de données relationnelle,قاعدة بيانات عل�
 data migration,migration de données,ترحيل المعطيات,tarhil l-ma3loumat,moving data from one system or format to another
 record,enregistrement,سجل بيانات,sijil bayanat,"a single row in a table; devs usually say ""record"" or ""ligne"""
 integration test,test d'intégration,اختبار التكامل,ikhtibar t-takamol,checks that several parts work together
+fine-tuning,réglage fin,الضبط الدقيق,d-dabt d-daqiq,adapting a pre-trained model on specific data
+embedding,plongement vectoriel,التضمين,t-tadmin,a vector representation of text or data
+vector database,base de données vectorielle,قاعدة بيانات شعاعية,qa3idat bayanat cho3a3iya,stores embeddings for similarity search
+retrieval-augmented generation,génération augmentée par récupération,التوليد المعزز بالاسترجاع,t-tawlid l-mo3azzaz b-l-istirja3,RAG: the model answers using retrieved documents
+hallucination,hallucination,هلوسة,halwasa,when an AI invents false facts confidently
