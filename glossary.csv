@@ -439,3 +439,8 @@ dimension table,table de dimensions,جدول الأبعاد,jadwal l-ab3ad,descr
 star schema,schéma en étoile,مخطط النجمة,mokhattat n-najma,one fact table joined to dimension tables
 surrogate key,clé de substitution,مفتاح بديل,miftah badil,an artificial key with no business meaning
 slowly changing dimension,dimension à évolution lente,بُعد متغير ببطء,bo3d motaghayyir b-bot',a dimension whose attributes change over time
+online,en ligne,متصل,mottasil,connected to the internet
+search history,historique de recherche,سجل البحث,sijil l-baht,the list of past searches
+password reset,réinitialisation du mot de passe,إعادة تعيين كلمة المرور,i3adat ta3yin kalimat l-moror,getting a new password after forgetting the old one
+night mode,mode nuit,الوضع الليلي,l-wad3 l-layli,a dark display theme for low light
+user manual,manuel d'utilisation,دليل الاستخدام,dalil l-istikhdam,the guide explaining how to use something
