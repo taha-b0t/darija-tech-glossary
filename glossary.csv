@@ -429,3 +429,8 @@ embedding,plongement vectoriel,التضمين,t-tadmin,a vector representation o
 vector database,base de données vectorielle,قاعدة بيانات شعاعية,qa3idat bayanat cho3a3iya,stores embeddings for similarity search
 retrieval-augmented generation,génération augmentée par récupération,التوليد المعزز بالاسترجاع,t-tawlid l-mo3azzaz b-l-istirja3,RAG: the model answers using retrieved documents
 hallucination,hallucination,هلوسة,halwasa,when an AI invents false facts confidently
+ELT,ELT,الاستخراج والتحميل والتحويل,l-istikhraj w-t-tahmil w-t-tahwil,extract load then transform; the reverse order of ETL
+data mesh,maillage de données,شبكة المعطيات,chabakat l-ma3loumat,decentralized data ownership by domain teams
+data observability,observabilité des données,مراقبة جودة المعطيات,mouraqabat jawdat l-ma3loumat,monitoring data health freshness and quality
+data contract,contrat de données,عقد المعطيات,3aqd l-ma3loumat,an agreement on a dataset's schema and quality
+change data capture,capture des changements de données,التقاط تغييرات المعطيات,iltiqat taghyirat l-ma3loumat,CDC: tracking row changes in a database
