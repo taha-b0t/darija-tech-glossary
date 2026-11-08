@@ -434,3 +434,8 @@ data mesh,maillage de données,شبكة المعطيات,chabakat l-ma3loumat,de
 data observability,observabilité des données,مراقبة جودة المعطيات,mouraqabat jawdat l-ma3loumat,monitoring data health freshness and quality
 data contract,contrat de données,عقد المعطيات,3aqd l-ma3loumat,an agreement on a dataset's schema and quality
 change data capture,capture des changements de données,التقاط تغييرات المعطيات,iltiqat taghyirat l-ma3loumat,CDC: tracking row changes in a database
+fact table,table de faits,جدول الحقائق,jadwal l-haqa'iq,the table holding measurable facts in a star schema
+dimension table,table de dimensions,جدول الأبعاد,jadwal l-ab3ad,descriptive context around the facts like product date or customer
+star schema,schéma en étoile,مخطط النجمة,mokhattat n-najma,one fact table joined to dimension tables
+surrogate key,clé de substitution,مفتاح بديل,miftah badil,an artificial key with no business meaning
+slowly changing dimension,dimension à évolution lente,بُعد متغير ببطء,bo3d motaghayyir b-bot',a dimension whose attributes change over time
