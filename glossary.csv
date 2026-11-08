@@ -459,3 +459,8 @@ canary deployment,déploiement canari,النشر الكناري,n-nashr l-kanari
 feature flag,indicateur de fonctionnalité,علامة الميزة,3alamat l-miza,a switch that turns a feature on or off without redeploying
 infrastructure as code,infrastructure en tant que code,البنية التحتية ككود,l-binya t-tahtiya ka-code,"servers and networks defined in code files, not clicked by hand"
 load testing,test de charge,اختبار الحمل,ikhtibar l-haml,checking how an app behaves under heavy traffic
+autocorrect,correction automatique,التصحيح التلقائي,t-tashih t-tilqa'i,the keyboard fixing your typos as you type
+battery health,état de la batterie,صحة البطارية,sihhat l-battariya,how much charge a battery can still hold compared to new
+screen protector,protecteur d'écran,واقي الشاشة,waqi ch-chacha,a thin film that protects the phone screen from scratches
+wireless charging,charge sans fil,الشحن اللاسلكي,ch-chahn l-lasilki,"charging a phone by placing it on a pad, no cable"
+predictive text,texte prédictif,النص التنبؤي,n-nass t-tanabbu'i,the keyboard suggesting the next word before you type it
