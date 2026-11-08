@@ -449,3 +449,8 @@ schema registry,registre de schémas,سجل المخططات,sijil l-mokhattat,a
 stream processing,traitement en continu,معالجة التدفق,mo3alajat t-tadafoq,processing data record by record as it arrives instead of in batches
 data profiling,profilage de données,تنميط المعطيات,tanmit l-ma3loumat,inspecting a dataset to learn its types ranges and quality issues
 event-driven architecture,architecture événementielle,هندسة موجهة بالأحداث,handasa mowajjaha b-l-ahdath,software design where components react to events as they happen
+app store,boutique d'applications,متجر التطبيقات,matjar t-tatbiqat,the shop where you download apps for your phone
+screen time,temps d'écran,وقت الشاشة,waqt ch-chacha,how long you spend looking at a screen each day
+voice search,recherche vocale,البحث الصوتي,l-baht s-sawti,searching by speaking instead of typing
+file manager,gestionnaire de fichiers,مدير الملفات,modir l-milaffat,an app to browse move and organise files on a device
+cloud backup,sauvegarde dans le cloud,نسخة احتياطية سحابية,noskha ihtiyatiya sahabiya,a copy of your files kept on remote servers in case you lose them
