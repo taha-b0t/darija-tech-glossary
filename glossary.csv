@@ -484,3 +484,8 @@ picture-in-picture,image dans l'image,صورة داخل صورة,soura dakhel so
 app drawer,tiroir d'applications,درج التطبيقات,daraj t-tatbiqat,"the screen that lists all installed apps on a phone"
 screen mirroring,recopie d'écran,عكس الشاشة,3aks sh-shasha,"showing a phone screen on a TV or computer"
 gesture,geste,إيماءة,ima2a,"a finger movement on a screen, like a pinch or a swipe, that triggers an action"
+data silo,silo de données,صومعة المعطيات,sawma3at l-ma3loumat,an isolated data store; the opposite of a shared lakehouse
+data enrichment,enrichissement des données,إثراء المعطيات,ithra' l-ma3loumat,adding external data to improve a dataset
+data deduplication,déduplication des données,إزالة التكرارات من المعطيات,izalat t-tikrarat min l-ma3loumat,removing duplicate records from a dataset
+data anonymization,anonymisation des données,إخفاء هوية المعطيات,ikhfa' hawiyat l-ma3loumat,removing personal identifiers from data
+data sampling,échantillonnage des données,أخذ عينة من المعطيات,akhdh 3ayina min l-ma3loumat,working on a representative subset of a dataset
