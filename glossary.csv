@@ -499,3 +499,8 @@ data drift,dérive des données,انحراف المعطيات,in7iraf l-ma3louma
 data freshness,fraîcheur des données,حداثة المعطيات,7adathat l-ma3loumat,how recent the data in a table is
 data reliability,fiabilité des données,موثوقية المعطيات,mawthou9iyat l-ma3loumat,trust that data is correct and available
 schema drift,dérive de schéma,انحراف المخطط,in7iraf l-moukhattat,when a source changes its columns without warning
+app update,mise à jour de l'application,تحديث التطبيق,ta7dith t-tatbi9,a new version of an app from the store
+storage space,espace de stockage,مساحة التخزين,mas7at t-takhzin,free space left on the phone
+clear cache,vider le cache,مسح الكاش,mas7 l-cache,delete temporary files an app stored
+force stop,arrêt forcé,إيقاف إجباري,i9af ijbari,stop an app completely from the settings
+typing indicator,indicateur de frappe,مؤشر الكتابة,mou2achir l-kitaba,the three dots showing someone is typing
