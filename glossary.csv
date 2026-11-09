@@ -489,3 +489,8 @@ data enrichment,enrichissement des données,إثراء المعطيات,ithra' l
 data deduplication,déduplication des données,إزالة التكرارات من المعطيات,izalat t-tikrarat min l-ma3loumat,removing duplicate records from a dataset
 data anonymization,anonymisation des données,إخفاء هوية المعطيات,ikhfa' hawiyat l-ma3loumat,removing personal identifiers from data
 data sampling,échantillonnage des données,أخذ عينة من المعطيات,akhdh 3ayina min l-ma3loumat,working on a representative subset of a dataset
+push notification,notification push,إشعار فوري,ish3ar fawri,an alert sent by an app even when it is closed
+read receipt,accusé de lecture,تأكيد القراءة,ta'kid l-qira'a,the blue ticks showing a message was read
+last seen,dernière connexion,آخر ظهور,akhir dhuhur,when a contact was last online
+block,bloquer,حظر,hadhr,stop a contact from messaging or calling you
+spam folder,dossier spam,مجلد الرسائل المزعجة,mujallad r-rasa'il l-muz3ija,where unwanted mail is filtered
