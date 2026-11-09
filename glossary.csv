@@ -494,3 +494,8 @@ read receipt,accusé de lecture,تأكيد القراءة,ta'kid l-qira'a,the bl
 last seen,dernière connexion,آخر ظهور,akhir dhuhur,when a contact was last online
 block,bloquer,حظر,hadhr,stop a contact from messaging or calling you
 spam folder,dossier spam,مجلد الرسائل المزعجة,mujallad r-rasa'il l-muz3ija,where unwanted mail is filtered
+data architecture,architecture des données,هندسة المعطيات,handasat l-ma3loumat,the overall design of how data is stored and flows
+data drift,dérive des données,انحراف المعطيات,in7iraf l-ma3loumat,when data changes over time and breaks assumptions
+data freshness,fraîcheur des données,حداثة المعطيات,7adathat l-ma3loumat,how recent the data in a table is
+data reliability,fiabilité des données,موثوقية المعطيات,mawthou9iyat l-ma3loumat,trust that data is correct and available
+schema drift,dérive de schéma,انحراف المخطط,in7iraf l-moukhattat,when a source changes its columns without warning
