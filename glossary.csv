@@ -464,3 +464,8 @@ battery health,état de la batterie,صحة البطارية,sihhat l-battariya,h
 screen protector,protecteur d'écran,واقي الشاشة,waqi ch-chacha,a thin film that protects the phone screen from scratches
 wireless charging,charge sans fil,الشحن اللاسلكي,ch-chahn l-lasilki,"charging a phone by placing it on a pad, no cable"
 predictive text,texte prédictif,النص التنبؤي,n-nass t-tanabbu'i,the keyboard suggesting the next word before you type it
+data discovery,découverte de données,اكتشاف البيانات,iktichaf l-bayanat,finding and understanding what data exists in an organisation
+data steward,gestionnaire de données,أمين البيانات,amin l-bayanat,the person responsible for the quality and rules of a dataset
+real time,temps réel,الوقت الحقيقي,l-waqt l-haqiqi,"data processed immediately as it arrives, with no delay"
+backfill,remplissage rétroactif,التعبئة الرجعية,ta3bi2a r-raj3iya,reprocessing old data to fill gaps or fix past mistakes
+checkpoint,point de contrôle,نقطة التحقق,noqtat t-tahqoq,a saved state that lets a job resume instead of starting over
