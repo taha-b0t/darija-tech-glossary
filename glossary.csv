@@ -469,3 +469,8 @@ data steward,gestionnaire de données,أمين البيانات,amin l-bayanat,t
 real time,temps réel,الوقت الحقيقي,l-waqt l-haqiqi,"data processed immediately as it arrives, with no delay"
 backfill,remplissage rétroactif,التعبئة الرجعية,ta3bi2a r-raj3iya,reprocessing old data to fill gaps or fix past mistakes
 checkpoint,point de contrôle,نقطة التحقق,noqtat t-tahqoq,a saved state that lets a job resume instead of starting over
+home screen,écran d'accueil,الشاشة الرئيسية,ch-chacha r-ra2isiya,the main screen of a phone with apps and widgets
+lock screen,écran de verrouillage,شاشة القفل,chachat l-qfl,the screen you see before unlocking a phone
+app icon,icône d'application,أيقونة التطبيق,ayqounat t-tatbiq,the small picture that opens an app
+swipe,glissement,التمرير السريع,t-tmrir s-sari3,sliding a finger across a screen to move or dismiss something
+mobile data,données mobiles,بيانات الهاتف,bayanat l-hatif,"internet from the phone network, not wifi"
