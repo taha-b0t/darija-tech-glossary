@@ -509,3 +509,8 @@ data modeling,modélisation des données,نمذجة المعطيات,namdajat l-
 data wrangling,préparation des données,تجهيز المعطيات,tajhiz l-ma3loumat,cleaning and reshaping raw data so it can be analyzed
 data replication,réplication des données,نسخ المعطيات,naskh l-ma3loumat,copying data from one system to another to keep them in sync
 data fabric,data fabric,نسيج المعطيات,nasij l-ma3loumat,an architecture that connects data across many systems
+avatar,avatar,الصورة الرمزية,s-soura r-ramziya,the small image that represents you on a site or app
+profile picture,photo de profil,صورة البروفايل,sourat l-profil,the photo shown on your profile page
+in-app purchase,achat intégré,شراء داخل التطبيق,chra2 dakhl t-tatbi9,"buying something from inside an app, like extra features"
+free trial,essai gratuit,تجربة مجانية,tajriba majjaniya,a free period to test a paid service before subscribing
+advertisement,publicité,إعلان,i3lan,"a paid message promoting a product; most people say ""pub"" or ""ad"""
