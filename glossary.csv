@@ -504,3 +504,8 @@ storage space,espace de stockage,مساحة التخزين,mas7at t-takhzin,free
 clear cache,vider le cache,مسح الكاش,mas7 l-cache,delete temporary files an app stored
 force stop,arrêt forcé,إيقاف إجباري,i9af ijbari,stop an app completely from the settings
 typing indicator,indicateur de frappe,مؤشر الكتابة,mou2achir l-kitaba,the three dots showing someone is typing
+data integration,intégration des données,تكامل المعطيات,takamol l-ma3loumat,combining data from several sources into one place
+data modeling,modélisation des données,نمذجة المعطيات,namdajat l-ma3loumat,designing how data is organized in tables and relations
+data wrangling,préparation des données,تجهيز المعطيات,tajhiz l-ma3loumat,cleaning and reshaping raw data so it can be analyzed
+data replication,réplication des données,نسخ المعطيات,naskh l-ma3loumat,copying data from one system to another to keep them in sync
+data fabric,data fabric,نسيج المعطيات,nasij l-ma3loumat,an architecture that connects data across many systems
