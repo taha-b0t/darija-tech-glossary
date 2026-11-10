@@ -514,3 +514,8 @@ profile picture,photo de profil,صورة البروفايل,sourat l-profil,the 
 in-app purchase,achat intégré,شراء داخل التطبيق,chra2 dakhl t-tatbi9,"buying something from inside an app, like extra features"
 free trial,essai gratuit,تجربة مجانية,tajriba majjaniya,a free period to test a paid service before subscribing
 advertisement,publicité,إعلان,i3lan,"a paid message promoting a product; most people say ""pub"" or ""ad"""
+incremental load,chargement incrémental,التحميل التدريجي,t-ta7mil t-tadriji,loading only the new or changed rows since the last load
+streaming pipeline,pipeline de streaming,خط معالجة التدفق,khat mo3alajat t-tadaffoq,a pipeline that processes data continuously as it arrives
+data quality check,contrôle de qualité des données,فحص جودة المعطيات,fa7s jawdat l-ma3loumat,a test that verifies data meets quality rules before use
+source system,système source,النظام المصدر,n-nidam l-masdar,the system where data originally comes from
+target table,table cible,الجدول الهدف,l-jadwal l-hadaf,the table where processed data is written
