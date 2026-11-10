@@ -519,3 +519,8 @@ streaming pipeline,pipeline de streaming,خط معالجة التدفق,khat mo3
 data quality check,contrôle de qualité des données,فحص جودة المعطيات,fa7s jawdat l-ma3loumat,a test that verifies data meets quality rules before use
 source system,système source,النظام المصدر,n-nidam l-masdar,the system where data originally comes from
 target table,table cible,الجدول الهدف,l-jadwal l-hadaf,the table where processed data is written
+search bar,barre de recherche,شريط البحث,charit l-ba7th,the field at the top where you type what you are looking for
+home button,bouton d'accueil,زر الرئيسية,zirr r-ra2isiya,the button that takes you back to the home screen
+back button,bouton retour,زر الرجوع,zirr r-roujou3,the button that goes back to the previous screen
+recent apps,applications récentes,التطبيقات الأخيرة,t-tatbi9at l-akhira,the list of apps you opened most recently
+story highlight,story à la une,أبرز القصص,abraz l-9isas,a saved story shown permanently on a profile
