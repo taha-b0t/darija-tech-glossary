@@ -529,3 +529,8 @@ conformed dimension,dimension conforme,البعد الموحد,l-bu3d l-muwa77ad
 operational data store,magasin de données opérationnel,مخزن المعطيات التشغيلي,makhzan l-ma3loumat t-tachghili,a store for current operational data before it reaches the warehouse
 staging table,table de transit,جدول مرحلي,jadwal mar7ali,a temporary table where raw data lands before cleaning
 event streaming,diffusion d'événements en continu,بث الأحداث,bath l-a7dath,processing data as a continuous flow of events
+app lock,verrouillage d'application,قفل التطبيقات,9afl t-tatbi9at,locks an app behind a PIN or fingerprint
+voice recorder,enregistreur vocal,مسجل الصوت,moussajjil s-sawt,an app that records audio
+missed call,appel manqué,مكالمة فائتة,mukalama fa2ita,a call you did not answer in time
+quick settings,paramètres rapides,الإعدادات السريعة,l-i3dadat s-sari3a,the panel of shortcuts you reach by swiping down
+data usage,consommation de données,استهلاك المعطيات,istihlak l-ma3loumat,how much mobile data your phone or an app has used
