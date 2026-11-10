@@ -524,3 +524,8 @@ home button,bouton d'accueil,زر الرئيسية,zirr r-ra2isiya,the button th
 back button,bouton retour,زر الرجوع,zirr r-roujou3,the button that goes back to the previous screen
 recent apps,applications récentes,التطبيقات الأخيرة,t-tatbi9at l-akhira,the list of apps you opened most recently
 story highlight,story à la une,أبرز القصص,abraz l-9isas,a saved story shown permanently on a profile
+data vault,voûte de données,داتا ڤولت,data vault,"a modeling method that stores raw data in hubs, links and satellites"
+conformed dimension,dimension conforme,البعد الموحد,l-bu3d l-muwa77ad,a dimension shared across data marts so reports match
+operational data store,magasin de données opérationnel,مخزن المعطيات التشغيلي,makhzan l-ma3loumat t-tachghili,a store for current operational data before it reaches the warehouse
+staging table,table de transit,جدول مرحلي,jadwal mar7ali,a temporary table where raw data lands before cleaning
+event streaming,diffusion d'événements en continu,بث الأحداث,bath l-a7dath,processing data as a continuous flow of events
