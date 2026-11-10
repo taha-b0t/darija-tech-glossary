@@ -539,3 +539,8 @@ data consumer,consommateur de données,مستعمل المعطيات,musta3mil l
 normalization,normalisation,التطبيع,tatbi3,organizing data to reduce redundancy in a database
 denormalization,dénormalisation,إلغاء التطبيع,ilgha2 tatbi3,adding redundancy back to speed up reads
 staging area,zone de préparation,منطقة التجهيز,mintaqat t-tajhiz,temporary storage where raw data lands before processing
+phone call,appel téléphonique,مكالمة هاتفية,mukalama hatifiya,a voice call made from a phone
+text message,message texte,رسالة نصية,risala nassiya,short written message sent by SMS
+contact list,liste de contacts,لائحة جهات الاتصال,la2ihat jihat l-ittisal,the list of saved contacts on a phone
+voice note,note vocale,ملاحظة صوتية,mulahada sawtiya,short recorded voice message
+video message,message vidéo,رسالة فيديو,risala video,short recorded video sent as a message
