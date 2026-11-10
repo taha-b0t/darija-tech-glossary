@@ -534,3 +534,8 @@ voice recorder,enregistreur vocal,مسجل الصوت,moussajjil s-sawt,an app t
 missed call,appel manqué,مكالمة فائتة,mukalama fa2ita,a call you did not answer in time
 quick settings,paramètres rapides,الإعدادات السريعة,l-i3dadat s-sari3a,the panel of shortcuts you reach by swiping down
 data usage,consommation de données,استهلاك المعطيات,istihlak l-ma3loumat,how much mobile data your phone or an app has used
+data owner,propriétaire des données,مالك البيانات,malik l-ma3loumat,person responsible for a dataset and its quality
+data consumer,consommateur de données,مستعمل المعطيات,musta3mil l-ma3tiyat,person or system that uses data produced by others
+normalization,normalisation,التطبيع,tatbi3,organizing data to reduce redundancy in a database
+denormalization,dénormalisation,إلغاء التطبيع,ilgha2 tatbi3,adding redundancy back to speed up reads
+staging area,zone de préparation,منطقة التجهيز,mintaqat t-tajhiz,temporary storage where raw data lands before processing
