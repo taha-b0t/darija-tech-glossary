@@ -544,3 +544,8 @@ text message,message texte,رسالة نصية,risala nassiya,short written mess
 contact list,liste de contacts,لائحة جهات الاتصال,la2ihat jihat l-ittisal,the list of saved contacts on a phone
 voice note,note vocale,ملاحظة صوتية,mulahada sawtiya,short recorded voice message
 video message,message vidéo,رسالة فيديو,risala video,short recorded video sent as a message
+python,Python,بايثون,python,"the most popular language for data work; devs just say ""Python"""
+sql,SQL,إس كيو إل,SQL,"the language for querying databases; pronounced ""ess-queue-ell"""
+javascript,JavaScript,جافاسكريبت,javascript,"the language of the web; runs in every browser"
+html,HTML,إتش تي إم إل,HTML,"the markup language that structures web pages"
+css,CSS,سي إس إس,CSS,"the language that styles web pages"
