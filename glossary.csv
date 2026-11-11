@@ -579,3 +579,8 @@ data swamp,marais de données,مستنقع البيانات,mustanqa3 l-bayanat,
 lambda architecture,architecture lambda,بنية لامدا,binyat lambda,big data design with a batch layer and a speed layer
 kappa architecture,architecture kappa,بنية كابا,binyat kappa,"simpler alternative to lambda: everything is a stream, no batch layer"
 event time,temps d'événement,وقت الحدث,waqt l-hadath,"the time an event actually happened, as opposed to when it was processed"
+screen timeout,délai d'extinction de l'écran,مهلة إطفاء الشاشة,muhlat itfa' sh-shasha,how long before the screen turns off by itself
+auto brightness,luminosité automatique,السطوع التلقائي,s-stu3 t-tilqa'i,the screen adjusts its brightness to the light around you
+notification sound,son de notification,صوت الإشعار,sawt l-ish3ar,the sound played when a notification arrives
+live chat,chat en direct,الدردشة المباشرة,d-dardasha l-mubashira,"instant text chat with a person or support agent, in real time"
+video chat,chat vidéo,الدردشة بالفيديو,d-dardasha b-l-video,"a live conversation with video, like a video call with friends"
