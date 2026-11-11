@@ -554,3 +554,8 @@ weather,météo,الطقس,t-taqs,the weather app or widget on a phone
 notes,notes,الملاحظات,l-moulahadat,the notes app for quick written reminders
 music player,lecteur de musique,مشغل الموسيقى,mouchaghil l-mousiqa,the app that plays songs and audio
 video player,lecteur vidéo,مشغل الفيديو,mouchaghil l-video,the app that plays videos
+event sourcing,sourcing d'événements,تتبع الأحداث,tatabbu3 l-a7dath,event-driven pattern; every state change is stored as an event
+message queue,file de messages,طابور الرسائل,tabour r-rasa'il,buffers messages between services
+dead letter queue,file de lettres mortes,طابور الرسائل الميتة,tabour r-rasa'il l-mayta,where messages that fail processing end up
+schema migration,migration de schéma,ترحيل المخطط,tar7il l-mukhattat,changing a database schema in a controlled way
+query optimization,optimisation de requête,تحسين الاستعلام,ta7sin l-istilam,making a database query run faster
