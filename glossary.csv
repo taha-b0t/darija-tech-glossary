@@ -574,3 +574,8 @@ earbuds,écouteurs sans fil,سماعات الأذن الصغيرة,samma3at l-ou
 power bank,batterie externe,بطارية خارجية,battariya kharijiya,portable charger that recharges a phone away from a socket
 5G,5G,الجيل الخامس,l-jil l-khamis,"fifth-generation mobile network, much faster than 4G"
 NFC,NFC,الاتصال قريب المدى,l-ittisal qarib l-mada,tap-to-pay and tap-to-pair wireless technology
+feature store,magasin de caractéristiques,مخزن الميزات,makhzan l-mizat,"central store for ML features, shared between training and serving"
+data swamp,marais de données,مستنقع البيانات,mustanqa3 l-bayanat,"a data lake without governance, where data becomes hard to find and trust"
+lambda architecture,architecture lambda,بنية لامدا,binyat lambda,big data design with a batch layer and a speed layer
+kappa architecture,architecture kappa,بنية كابا,binyat kappa,"simpler alternative to lambda: everything is a stream, no batch layer"
+event time,temps d'événement,وقت الحدث,waqt l-hadath,"the time an event actually happened, as opposed to when it was processed"
