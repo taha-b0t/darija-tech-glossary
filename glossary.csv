@@ -559,3 +559,8 @@ message queue,file de messages,طابور الرسائل,tabour r-rasa'il,buffer
 dead letter queue,file de lettres mortes,طابور الرسائل الميتة,tabour r-rasa'il l-mayta,where messages that fail processing end up
 schema migration,migration de schéma,ترحيل المخطط,tar7il l-mukhattat,changing a database schema in a controlled way
 query optimization,optimisation de requête,تحسين الاستعلام,ta7sin l-istilam,making a database query run faster
+sleep mode,mode veille,وضع السكون,wad3 s-sukun,low-power state the device wakes from quickly
+screen rotation,rotation de l'écran,تدوير الشاشة,tadwir sh-shasha,flips the display between portrait and landscape
+photo editor,éditeur de photos,محرر الصور,mu7arrir s-suwar,app for cropping and filtering photos
+call history,historique des appels,سجل المكالمات,sijil l-mukalamat,"list of incoming, outgoing and missed calls"
+emergency call,appel d'urgence,مكالمة الطوارئ,mukalama t-tawari2,call to emergency services; works even without a SIM
