@@ -564,3 +564,8 @@ screen rotation,rotation de l'écran,تدوير الشاشة,tadwir sh-shasha,fl
 photo editor,éditeur de photos,محرر الصور,mu7arrir s-suwar,app for cropping and filtering photos
 call history,historique des appels,سجل المكالمات,sijil l-mukalamat,"list of incoming, outgoing and missed calls"
 emergency call,appel d'urgence,مكالمة الطوارئ,mukalama t-tawari2,call to emergency services; works even without a SIM
+dbt,dbt,دي بي تي,di-bi-ti,tool name used as-is; transforms data in the warehouse with SQL
+snowflake,Snowflake,سنوفليك,snoflik,tool name used as-is; cloud data warehouse platform
+databricks,Databricks,داتابريكس,databriks,tool name used as-is; unified analytics platform for data and AI
+redshift,Redshift,ريدشيفت,ridshift,tool name used as-is; Amazon cloud data warehouse
+bigquery,BigQuery,بيغ كويري,big-kwiri,tool name used as-is; Google serverless data warehouse
