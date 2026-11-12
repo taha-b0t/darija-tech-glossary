@@ -604,3 +604,8 @@ background app refresh,actualisation en arrière-plan,تحديث التطبيق�
 app tracking,suivi des applications,تتبع التطبيقات,tatabbu3 t-taṭbiqat,apps collecting data about what you do
 bedtime mode,mode coucher,وضع النوم,waḍ3 n-nawm,quiets notifications and dims the screen at night
 battery percentage,pourcentage de batterie,نسبة البطارية,nisbat l-baṭṭariya,the number showing how much charge is left
+transformer,transformer,ترانسفورمر,transformer,the neural network architecture behind modern LLMs; borrowed 'transformer' is common
+attention mechanism,mécanisme d'attention,آلية الانتباه,aliyat l-intibah,how a model focuses on the most relevant parts of the input
+gradient descent,descente de gradient,النزول التدريجي,n-nouzoul t-tadriji,the optimization algorithm that trains most neural networks
+overfitting,surapprentissage,الإفراط في التخصيص,l-ifrat fi t-takhsis,when a model memorizes training data and fails on new data
+underfitting,sous-apprentissage,التخصيص الناقص,t-takhsis n-naqis,when a model is too simple to learn the patterns in the data
