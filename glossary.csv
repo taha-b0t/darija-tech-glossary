@@ -609,3 +609,8 @@ attention mechanism,mécanisme d'attention,آلية الانتباه,aliyat l-in
 gradient descent,descente de gradient,النزول التدريجي,n-nouzoul t-tadriji,the optimization algorithm that trains most neural networks
 overfitting,surapprentissage,الإفراط في التخصيص,l-ifrat fi t-takhsis,when a model memorizes training data and fails on new data
 underfitting,sous-apprentissage,التخصيص الناقص,t-takhsis n-naqis,when a model is too simple to learn the patterns in the data
+dimensional modeling,modélisation dimensionnelle,النمذجة البعدية,n-namdaja l-ba3diya,designing fact and dimension tables for analytics
+data architect,architecte de données,مهندس معمارية المعطيات,mohandis mi3mariyat l-ma3loumat,the person who designs how an organization stores and flows data
+data quality framework,cadre de qualité des données,إطار جودة المعطيات,itar jawdat l-ma3loumat,a structured set of rules and checks to keep data reliable
+training data,données d'entraînement,بيانات التدريب,bayanat t-tadrib,the data a model learns from
+validation set,ensemble de validation,مجموعة التحقق,majmou3at t-tahaqqoq,held-out data used to check a model while tuning it
