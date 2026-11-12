@@ -619,3 +619,8 @@ cross-validation,validation croisée,التحقق المتقاطع,t-tahaqqoq l-
 hyperparameter,hyperparamètre,المعلمة الفائقة,l-ma3lama l-fa'iqa,"a setting chosen before training, like the learning rate"
 loss function,fonction de perte,دالة الخسارة,dallat l-khasara,measures how wrong a model's predictions are during training
 activation function,fonction d'activation,دالة التفعيل,dallat t-taf3il,decides whether a neuron in a network fires
+eSIM,eSIM,إي سيم,eSIM,a digital SIM built into the phone; no physical card to insert
+phone case,coque de téléphone,غطاء الهاتف,ghita l-hatif,a protective cover for a phone
+memory card,carte mémoire,بطاقة الذاكرة,bitaqat d-dakira,a small removable card that adds storage to a phone or camera
+USB cable,câble USB,كابل USB,kabel USB,connects a phone to a charger or a computer
+fast charging,charge rapide,الشحن السريع,ch-chaḥn s-sari3,charging a battery much faster than a standard charger
