@@ -584,3 +584,8 @@ auto brightness,luminosité automatique,السطوع التلقائي,s-stu3 t-t
 notification sound,son de notification,صوت الإشعار,sawt l-ish3ar,the sound played when a notification arrives
 live chat,chat en direct,الدردشة المباشرة,d-dardasha l-mubashira,"instant text chat with a person or support agent, in real time"
 video chat,chat vidéo,الدردشة بالفيديو,d-dardasha b-l-video,"a live conversation with video, like a video call with friends"
+data platform,plateforme de données,منصة المعطيات,manasat l-ma3loumat,"the set of tools and services that store, move and serve an organisation's data"
+data democratization,démocratisation des données,دمقرطة المعطيات,damqratat l-ma3loumat,"making data accessible and understandable to everyone in a company, not only data teams"
+real-time analytics,analyse en temps réel,تحليل فوري,tahlil fawri,"analysing data as it arrives, so dashboards and alerts update within seconds"
+data domain,domaine de données,مجال المعطيات,majal l-ma3loumat,"a business area that owns its data, for example sales or logistics, in a data mesh"
+delta lake,Delta Lake,ديلتا ليك,delta lake,open-source storage layer that adds transactions and versioning on top of a data lake
