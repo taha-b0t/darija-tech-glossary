@@ -594,3 +594,8 @@ find my phone,localiser mon téléphone,العثور على هاتفي,l-3outhou
 digital wallet,portefeuille numérique,المحفظة الرقمية,l-mahfada r-raqmiya,an app that stores your cards and lets you pay with your phone
 tap to pay,paiement sans contact,الدفع باللمس,d-daf3 b-l-lams,"paying by holding your phone or card near the payment terminal, no PIN needed"
 focus mode,mode concentration,وضع التركيز,wad3 t-tarkiz,a phone mode that silences notifications from chosen apps while you work or study
+reinforcement learning,apprentissage par renforcement,التعلم بالتعزيز,at-ta3allum b-t-ta3ziz,learning by trial and reward
+supervised learning,apprentissage supervisé,التعلم الموجه,at-ta3allum l-muwajjah,learning from labelled examples
+unsupervised learning,apprentissage non supervisé,التعلم غير الموجه,at-ta3allum ghayr l-muwajjah,finding patterns without labels
+classification,classification,التصنيف,at-taṣnif,predicting a category or label
+regression,régression,الانحدار,al-inḥidar,predicting a continuous value
