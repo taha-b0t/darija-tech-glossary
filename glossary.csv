@@ -614,3 +614,8 @@ data architect,architecte de données,مهندس معمارية المعطيات
 data quality framework,cadre de qualité des données,إطار جودة المعطيات,itar jawdat l-ma3loumat,a structured set of rules and checks to keep data reliable
 training data,données d'entraînement,بيانات التدريب,bayanat t-tadrib,the data a model learns from
 validation set,ensemble de validation,مجموعة التحقق,majmou3at t-tahaqqoq,held-out data used to check a model while tuning it
+test set,ensemble de test,مجموعة الاختبار,majmou3at l-ikhtibar,data a model is evaluated on after training; never used to train it
+cross-validation,validation croisée,التحقق المتقاطع,t-tahaqqoq l-mutaqati3,splitting data into folds to test a model more reliably
+hyperparameter,hyperparamètre,المعلمة الفائقة,l-ma3lama l-fa'iqa,"a setting chosen before training, like the learning rate"
+loss function,fonction de perte,دالة الخسارة,dallat l-khasara,measures how wrong a model's predictions are during training
+activation function,fonction d'activation,دالة التفعيل,dallat t-taf3il,decides whether a neuron in a network fires
