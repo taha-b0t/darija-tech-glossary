@@ -599,3 +599,8 @@ supervised learning,apprentissage supervisé,التعلم الموجه,at-ta3all
 unsupervised learning,apprentissage non supervisé,التعلم غير الموجه,at-ta3allum ghayr l-muwajjah,finding patterns without labels
 classification,classification,التصنيف,at-taṣnif,predicting a category or label
 regression,régression,الانحدار,al-inḥidar,predicting a continuous value
+location services,services de localisation,خدمات الموقع,khadamat l-mawqi3,system feature that shares your position with apps
+background app refresh,actualisation en arrière-plan,تحديث التطبيقات في الخلفية,taḥdith t-taṭbiqat f-l-khalfiya,apps updating content while not in use
+app tracking,suivi des applications,تتبع التطبيقات,tatabbu3 t-taṭbiqat,apps collecting data about what you do
+bedtime mode,mode coucher,وضع النوم,waḍ3 n-nawm,quiets notifications and dims the screen at night
+battery percentage,pourcentage de batterie,نسبة البطارية,nisbat l-baṭṭariya,the number showing how much charge is left
