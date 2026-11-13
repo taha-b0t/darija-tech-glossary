@@ -634,3 +634,8 @@ long press,appui long,ضغطة مطولة,daghta moutawwala,pressing and holding
 drag and drop,glisser-déposer,سحب وإفلات,sa7b wa iflat,moving an item on screen by holding it and releasing it somewhere else
 offline mode,mode hors ligne,وضع عدم الاتصال,wad3 3adam l-ittisal,using an app without an internet connection
 battery optimization,optimisation de la batterie,تحسين البطارية,ta7sin l-batterie,settings that make a phone battery last longer by limiting background work
+ensemble learning,apprentissage d'ensemble,التعلم الجماعي,at-ta3alloum l-jama3i,combining several models so their combined prediction beats any single one
+feature importance,importance des caractéristiques,أهمية الخصائص,ahamiyat l-khasa2is,a score showing which input features influence a model's predictions most
+data leakage,fuite de données d'entraînement,تسرب البيانات,tasarrob l-bayanat,when information from the test set sneaks into training and inflates the score
+confusion matrix,matrice de confusion,مصفوفة الارتباك,masfoufat l-irtibak,a table comparing predicted labels against true labels for a classifier
+precision,précision,الدقة,ad-daqa,share of predicted positives that are truly positive
