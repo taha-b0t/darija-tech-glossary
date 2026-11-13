@@ -649,3 +649,8 @@ f1 score,score F1,مقياس إف 1,miqyas F1,a single score balancing precision
 learning rate,taux d'apprentissage,معدل التعلم,mo3addal t-ta3alloum,how big a step a model takes when updating its weights during training
 batch size,taille de lot,حجم الدفعة,7ajm d-dof3a,how many examples a model trains on before updating its weights
 epoch,époque,الحقبة,l-7aqba,one full pass over the whole training dataset
+call recording,enregistrement d'appel,تسجيل المكالمات,tasjil l-moukalamat,saving a phone call as an audio file
+spam call,appel indésirable,مكالمة مزعجة,moukalama mouz3ija,"an unwanted call, often advertising or a scam"
+unknown number,numéro inconnu,رقم مجهول,raqm majhoul,a call from a number that is not saved in the contacts
+mobile network,réseau mobile,الشبكة المحمولة,ch-chabaka l-ma7moula,the operator network a phone uses for calls and mobile data
+data roaming,itinérance des données,تجوال البيانات,tajawwol l-bayanat,"using mobile data abroad, often charged extra"
