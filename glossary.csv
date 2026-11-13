@@ -639,3 +639,8 @@ feature importance,importance des caractéristiques,أهمية الخصائص,ah
 data leakage,fuite de données d'entraînement,تسرب البيانات,tasarrob l-bayanat,when information from the test set sneaks into training and inflates the score
 confusion matrix,matrice de confusion,مصفوفة الارتباك,masfoufat l-irtibak,a table comparing predicted labels against true labels for a classifier
 precision,précision,الدقة,ad-daqa,share of predicted positives that are truly positive
+smart lock,verrou intelligent,القفل الذكي,l-qofl d-daki,"a lock that opens with a phone, code or fingerprint instead of a key"
+call forwarding,renvoi d'appel,تحويل المكالمات,ta7wil l-moukalamat,sending incoming calls to another number automatically
+speed dial,numérotation rapide,الاتصال السريع,l-ittisal s-sari3,calling a saved contact by pressing one key
+call waiting,appel en attente,مكالمة في الانتظار,moukalama fi l-intidar,a beep telling you another call is coming in while you are on the phone
+caller ID,identification de l'appelant,معرف المتصل,mo3arrif l-mouttasil,showing the caller's number or name on screen before you answer
