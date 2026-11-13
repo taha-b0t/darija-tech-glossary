@@ -654,3 +654,8 @@ spam call,appel indésirable,مكالمة مزعجة,moukalama mouz3ija,"an unwa
 unknown number,numéro inconnu,رقم مجهول,raqm majhoul,a call from a number that is not saved in the contacts
 mobile network,réseau mobile,الشبكة المحمولة,ch-chabaka l-ma7moula,the operator network a phone uses for calls and mobile data
 data roaming,itinérance des données,تجوال البيانات,tajawwol l-bayanat,"using mobile data abroad, often charged extra"
+model deployment,déploiement de modèle,نشر النموذج,nachr n-namoudaj,putting a trained model into production so it can make real predictions
+bias,biais,انحياز,in7iyaz,a systematic error that pushes a model's predictions in one direction
+variance,variance,تباين,tabayoun,how much a model's predictions change when it is trained on different data
+regularization,régularisation,تنظيم,tandim,a technique that keeps a model from overfitting by penalising complexity
+dropout,dropout,دروب أوت,dropout,borrowed 'dropout' is the word used; randomly switching off neurons during training to prevent overfitting
