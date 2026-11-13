@@ -629,3 +629,8 @@ data augmentation,augmentation de données,توسيع البيانات,tawsi3 l-
 tokenization,tokenisation,تجزئة النص,tajzi2at n-nass,splitting text into small pieces called tokens before a model reads it
 benchmark,benchmark,معيار الأداء,mi3yar l-ada2,a standard test used to compare the performance of different models
 prompt engineering,ingénierie des prompts,هندسة الأوامر,handasat l-awamir,the craft of writing clear instructions to get useful answers from an AI model
+double tap,double appui,ضغطة مزدوجة,daghta mouzdawaja,"tapping a screen twice quickly, often to like something or zoom in"
+long press,appui long,ضغطة مطولة,daghta moutawwala,pressing and holding a screen element to open extra options
+drag and drop,glisser-déposer,سحب وإفلات,sa7b wa iflat,moving an item on screen by holding it and releasing it somewhere else
+offline mode,mode hors ligne,وضع عدم الاتصال,wad3 3adam l-ittisal,using an app without an internet connection
+battery optimization,optimisation de la batterie,تحسين البطارية,ta7sin l-batterie,settings that make a phone battery last longer by limiting background work
