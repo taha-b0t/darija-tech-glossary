@@ -659,3 +659,8 @@ bias,biais,انحياز,in7iyaz,a systematic error that pushes a model's predict
 variance,variance,تباين,tabayoun,how much a model's predictions change when it is trained on different data
 regularization,régularisation,تنظيم,tandim,a technique that keeps a model from overfitting by penalising complexity
 dropout,dropout,دروب أوت,dropout,borrowed 'dropout' is the word used; randomly switching off neurons during training to prevent overfitting
+screen lock,verrouillage d'écran,قفل الهاتف,9afl l-hatif,"the lock that protects the phone screen with a PIN, pattern or fingerprint"
+app permissions,autorisations des applications,أذونات التطبيقات,odounat t-tatbi9at,"what an app must ask for before using the camera, microphone or contacts"
+auto reply,réponse automatique,رد تلقائي,radd til9a2i,an automatic message sent when you cannot answer
+dual SIM,double SIM,شريحتين,chri7tayn,a phone that takes two SIM cards
+screen reader,lecteur d'écran,قارئ الشاشة,9ari2 ch-chacha,software that reads the screen aloud for blind or low-vision users
