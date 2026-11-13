@@ -624,3 +624,8 @@ phone case,coque de téléphone,غطاء الهاتف,ghita l-hatif,a protective
 memory card,carte mémoire,بطاقة الذاكرة,bitaqat d-dakira,a small removable card that adds storage to a phone or camera
 USB cable,câble USB,كابل USB,kabel USB,connects a phone to a charger or a computer
 fast charging,charge rapide,الشحن السريع,ch-chaḥn s-sari3,charging a battery much faster than a standard charger
+model evaluation,évaluation du modèle,تقييم النموذج,taqyim n-namoudaj,measuring how well a trained model performs on unseen data
+data augmentation,augmentation de données,توسيع البيانات,tawsi3 l-bayanat,creating extra training examples by slightly changing existing ones
+tokenization,tokenisation,تجزئة النص,tajzi2at n-nass,splitting text into small pieces called tokens before a model reads it
+benchmark,benchmark,معيار الأداء,mi3yar l-ada2,a standard test used to compare the performance of different models
+prompt engineering,ingénierie des prompts,هندسة الأوامر,handasat l-awamir,the craft of writing clear instructions to get useful answers from an AI model
