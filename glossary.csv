@@ -664,3 +664,8 @@ app permissions,autorisations des applications,أذونات التطبيقات,o
 auto reply,réponse automatique,رد تلقائي,radd til9a2i,an automatic message sent when you cannot answer
 dual SIM,double SIM,شريحتين,chri7tayn,a phone that takes two SIM cards
 screen reader,lecteur d'écran,قارئ الشاشة,9ari2 ch-chacha,software that reads the screen aloud for blind or low-vision users
+decision tree,arbre de décision,شجرة القرار,chajarat l-9arar,a model that splits data into branches by asking yes/no questions
+random forest,forêt aléatoire,غابة عشوائية,ghaba 3achwa2iya,many decision trees voting together for a more accurate prediction
+clustering,regroupement,التجميع العنقودي,t-tajmi3 l-3oun9oudi,grouping similar data points together without giving them labels
+support vector machine,machine à vecteurs de support,آلة المتجهات الداعمة,alat l-moutajihat d-da3ima,a model that finds the best boundary between two groups of data
+naive bayes,bayésien naïf,بايز الساذج,bayes s-sadij,a simple probabilistic classifier based on Bayes' theorem
