@@ -689,3 +689,8 @@ model registry,registre de modèles,سجل النماذج,sijill n-namadhij,"a c
 batch inference,inférence par lots,الاستدلال بالدفعات,l-istidlal b-d-dofa3at,running a trained model on a large set of saved inputs at once instead of one request at a time
 data versioning,versionnement des données,ترقيم إصدارات البيانات,tar9im isdarat l-bayanat,keeping track of every version of a dataset so an experiment can be reproduced exactly
 model serving,service de modèle,تقديم النماذج,ta9dim n-namadhij,making a trained model available as a live service that answers prediction requests
+quick reply,réponse rapide,الرد السريع,r-radd s-sari3,answering a message from the notification without opening the app
+gesture navigation,navigation gestuelle,التنقل بالإيماءات,t-tana99ol b-l-ima2at,moving around a phone with swipes instead of on-screen buttons
+one-handed mode,mode une main,وضع اليد الواحدة,wad3 l-yad l-wa7ida,shrinking the screen down so you can reach everything with one thumb
+game mode,mode jeu,وضع اللعب,wad3 l-la3b,a phone setting that blocks notifications and boosts performance while you play
+parental controls,contrôle parental,الرقابة الأبوية,r-ra9aba l-abawiya,settings that let parents limit what children can see and do on a device
