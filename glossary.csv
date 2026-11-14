@@ -674,3 +674,8 @@ trending,tendance,رائج,ra2ij,currently popular and widely talked about onlin
 explore page,page d'exploration,صفحة الاستكشاف,saf7at l-istikchaf,the page showing posts the app thinks you might like
 verified badge,badge vérifié,شارة التحقق,charat t-ta7a99ou9,the checkmark showing an account is authentic
 close friends,amis proches,الأصدقاء المقربون,l-asdi9a2 l-mou9arraboun,a private list of people who see your personal stories
+gradient boosting,boosting de gradient,التعزيز التدريجي,t-ta3ziz t-tadriji,"a model that builds many small trees one after another, each fixing the previous one's mistakes"
+k-nearest neighbors,plus proches voisins,أقرب الجيران,a9rab l-jiran,a classifier that labels a new point by looking at the k closest examples
+feature selection,sélection de caractéristiques,اختيار الميزات,ikhtiyar l-miziyat,picking only the most useful input columns before training a model
+backpropagation,rétropropagation,الانتشار العكسي,l-intichar l-3aksi,the algorithm that sends the error backwards through a neural network to update its weights
+optimizer,optimiseur,المحسن,l-mou7assin,the algorithm that adjusts a model's weights step by step to reduce the loss
