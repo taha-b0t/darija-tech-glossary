@@ -684,3 +684,8 @@ playback speed,vitesse de lecture,سرعة التشغيل,sor3at t-tachghil,how 
 download manager,gestionnaire de téléchargement,مدير التحميلات,moudir t-ta7milat,the tool that keeps track of your downloads and lets you pause and resume them
 direct message,message direct,رسالة مباشرة,risala moubachira,a private message sent to one person instead of a public post
 sleep timer,minuteur de sommeil,مؤقت النوم,mou2a99it n-noum,a timer that stops playback automatically after a set time so you can fall asleep
+vector search,recherche vectorielle,البحث بالمتجهات,l-ba7th b-l-moutajihat,finding similar items by comparing their vector embeddings instead of exact keywords
+model registry,registre de modèles,سجل النماذج,sijill n-namadhij,"a central place where trained models are stored, versioned and approved before deployment"
+batch inference,inférence par lots,الاستدلال بالدفعات,l-istidlal b-d-dofa3at,running a trained model on a large set of saved inputs at once instead of one request at a time
+data versioning,versionnement des données,ترقيم إصدارات البيانات,tar9im isdarat l-bayanat,keeping track of every version of a dataset so an experiment can be reproduced exactly
+model serving,service de modèle,تقديم النماذج,ta9dim n-namadhij,making a trained model available as a live service that answers prediction requests
