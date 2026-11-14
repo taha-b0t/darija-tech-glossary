@@ -694,3 +694,8 @@ gesture navigation,navigation gestuelle,التنقل بالإيماءات,t-tana
 one-handed mode,mode une main,وضع اليد الواحدة,wad3 l-yad l-wa7ida,shrinking the screen down so you can reach everything with one thumb
 game mode,mode jeu,وضع اللعب,wad3 l-la3b,a phone setting that blocks notifications and boosts performance while you play
 parental controls,contrôle parental,الرقابة الأبوية,r-ra9aba l-abawiya,settings that let parents limit what children can see and do on a device
+computer vision,vision par ordinateur,الرؤية الحاسوبية,r-ro2ya l-7asoubiya,"teaching a computer to understand images and video, like recognizing faces or reading road signs"
+speech recognition,reconnaissance vocale,التعرف على الكلام,t-ta3arrof 3la l-kalam,"turning spoken words into written text, like when a voice assistant understands what you say"
+anomaly detection,détection d’anomalies,كشف الشذوذ,kashf sh-shoudhoudh,"finding data points that behave very differently from the rest, like a suspicious transaction in a bank account"
+recommendation system,système de recommandation,نظام التوصيات,nidam t-tawsiyat,"software that suggests things you might like, like the next video or product to buy"
+natural language generation,génération de langage naturel,توليد اللغة الطبيعية,tawlid l-lougha t-tabi3iya,"an AI writing human-like text, like drafting an email or summarizing an article"
