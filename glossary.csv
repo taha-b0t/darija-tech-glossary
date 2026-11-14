@@ -679,3 +679,8 @@ k-nearest neighbors,plus proches voisins,أقرب الجيران,a9rab l-jiran,a
 feature selection,sélection de caractéristiques,اختيار الميزات,ikhtiyar l-miziyat,picking only the most useful input columns before training a model
 backpropagation,rétropropagation,الانتشار العكسي,l-intichar l-3aksi,the algorithm that sends the error backwards through a neural network to update its weights
 optimizer,optimiseur,المحسن,l-mou7assin,the algorithm that adjusts a model's weights step by step to reduce the loss
+autoplay,lecture automatique,التشغيل التلقائي,t-tachghil t-til9a2i,videos starting on their own one after another without pressing play
+playback speed,vitesse de lecture,سرعة التشغيل,sor3at t-tachghil,how fast a video or audio plays, for example 1.25x or 2x
+download manager,gestionnaire de téléchargement,مدير التحميلات,moudir t-ta7milat,the tool that keeps track of your downloads and lets you pause and resume them
+direct message,message direct,رسالة مباشرة,risala moubachira,a private message sent to one person instead of a public post
+sleep timer,minuteur de sommeil,مؤقت النوم,mou2a99it n-noum,a timer that stops playback automatically after a set time so you can fall asleep
