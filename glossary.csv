@@ -739,3 +739,8 @@ data quality score,score de qualité des données,نقطة جودة المعطي
 real-time processing,traitement en temps réel,المعالجة في الوقت الحقيقي,l-mu3alaja fi l-waqt l-7aqiqi,"handling data the moment it arrives, with almost no delay"
 data strategy,stratégie de données,استراتيجية المعطيات,istrategiyat l-ma3loumat,"the plan for how an organisation collects, stores and uses its data"
 data streaming,diffusion de données,بث المعطيات,bath l-ma3loumat,"sending data continuously as a flow, instead of in one big file"
+file transfer,transfert de fichiers,نقل الملفات,naql l-milafat,moving a file from one device or place to another
+cloud sync,synchronisation cloud,المزامنة مع السحابة,l-muzamana m3a s-sa7aba,keeping the same files up to date on every device through the cloud
+system update,mise à jour du système,تحديث النظام,ta7dith n-nidam,an update that brings new features and fixes to the operating system
+software update,mise à jour logicielle,تحديث البرنامج,ta7dith l-barnamaj,"a newer version of an app or program, usually with fixes"
+splash screen,écran de démarrage,شاشة البداية,shashat l-bidaya,the first screen an app shows for a moment while it loads
