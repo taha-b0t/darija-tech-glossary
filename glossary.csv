@@ -729,3 +729,8 @@ dataops,dataops,داتا أوبس,dataops,the practices that automate and manage
 mlops,mlops,إم إل أوبس,mlops,the practices that deploy and operate machine learning models
 model monitoring,surveillance des modèles,مراقبة النماذج,mouraqabat n-namadhij,watching a deployed model for drift and errors
 data clean room,salle blanche de données,غرفة البيانات النظيفة,ghorfat l-bayanat n-nadhifa,a safe shared space where two parties analyse data without exposing raw records
+cast,diffusion d'écran,البث على الشاشة,l-bath 3la sh-shasha,starting a video or music on a TV from your phone
+nearby share,partage à proximité,المشاركة القريبة,l-mocharaka l-qriba,sending files to a nearby phone without internet
+data saver,économiseur de données,موفر البيانات,mowaffir l-bayanat,the mode that limits background data use
+app timer,minuteur d'application,مؤقت التطبيقات,mo2aqqit t-tatbiqat,a daily time limit set on one app
+digital wellbeing,bien-être numérique,الرفاهية الرقمية,r-rafahiya r-raqmiya,the phone tools that help you use apps less
