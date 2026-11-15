@@ -719,3 +719,8 @@ early stopping,arrêt précoce,الإيقاف المبكر,l-iqaf l-mobakkir,sto
 train-test split,division entraînement-test,تقسيم التدريب والاختبار,taqsim t-tadrib w-l-ikhtibar,splitting a dataset into a training part and a held-out test part
 validation loss,perte de validation,خسارة التحقق,khasarat t-tahaqqoq,the loss measured on the validation set during training
 neural network architecture,architecture de réseau de neurones,بنية الشبكة العصبية,binyat ch-chabaka l-3asabiya,the arrangement of layers and connections in a neural network
+incognito mode,mode navigation privée,وضع التصفح الخفي,wad3 t-tasafouh l-khafi,browsing without saving history or cookies on the device
+ad blocker,bloqueur de publicités,مانع الإعلانات,mani3 l-i3lanat,a tool that hides ads on websites and in apps
+text size,taille du texte,حجم النص,7ajm n-nas,how big the letters appear on screen
+pinch to zoom,zoom par pincement,التكبير بإصبعين,t-takbir b-jouj sba3,zooming in or out by spreading or pinching two fingers
+buffering,mise en mémoire tampon,التخزين المؤقت,t-takhzin l-mo2aqqat,the short wait while a video loads the next seconds before playing
