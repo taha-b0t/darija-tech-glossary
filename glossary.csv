@@ -714,3 +714,8 @@ text to speech,synthèse vocale,تحويل النص إلى كلام,ta7wil n-nas
 speech to text,transcription vocale,تحويل الكلام إلى نص,ta7wil l-kalam l-nass,"turning spoken words into written text, like dictating a message instead of typing it"
 sentiment analysis,analyse des sentiments,تحليل المشاعر,ta7lil l-macha3ir,"working out whether a piece of text sounds positive, negative or neutral, like reading customer reviews"
 object detection,détection d’objets,كشف الأجسام,kachf l-ajsam,"finding and locating specific things inside an image or video, like cars on a road"
+decision boundary,frontière de décision,حدود القرار,7oudoud l-qarar,the line or surface separating one predicted class from another
+early stopping,arrêt précoce,الإيقاف المبكر,l-iqaf l-mobakkir,stopping training once validation performance stops improving
+train-test split,division entraînement-test,تقسيم التدريب والاختبار,taqsim t-tadrib w-l-ikhtibar,splitting a dataset into a training part and a held-out test part
+validation loss,perte de validation,خسارة التحقق,khasarat t-tahaqqoq,the loss measured on the validation set during training
+neural network architecture,architecture de réseau de neurones,بنية الشبكة العصبية,binyat ch-chabaka l-3asabiya,the arrangement of layers and connections in a neural network
