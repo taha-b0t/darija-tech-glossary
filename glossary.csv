@@ -709,3 +709,8 @@ transfer learning,apprentissage par transfert,التعلم بالنقل,ta3allom
 data labeling,étiquetage des données,وسم البيانات,wasm l-bayanat,"adding the correct answer to raw data so a model can learn from it, like tagging photos with what they show"
 k-means,k-moyennes,كي-مينز,k-means,a clustering algorithm that splits data into k groups around a central point for each group
 logistic regression,régression logistique,الانحدار اللوجستي,l-in7idar l-logisti,"a model that predicts a yes-or-no outcome, like whether an email is spam"
+image generation,génération d’images,توليد الصور,tawlid s-sowar,an AI creating a new picture from a text description or another image
+text to speech,synthèse vocale,تحويل النص إلى كلام,ta7wil n-nass l-kalam,"turning written text into a spoken voice, like a navigation app reading directions aloud"
+speech to text,transcription vocale,تحويل الكلام إلى نص,ta7wil l-kalam l-nass,"turning spoken words into written text, like dictating a message instead of typing it"
+sentiment analysis,analyse des sentiments,تحليل المشاعر,ta7lil l-macha3ir,"working out whether a piece of text sounds positive, negative or neutral, like reading customer reviews"
+object detection,détection d’objets,كشف الأجسام,kachf l-ajsam,"finding and locating specific things inside an image or video, like cars on a road"
