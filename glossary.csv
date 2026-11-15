@@ -724,3 +724,8 @@ ad blocker,bloqueur de publicités,مانع الإعلانات,mani3 l-i3lanat,a
 text size,taille du texte,حجم النص,7ajm n-nas,how big the letters appear on screen
 pinch to zoom,zoom par pincement,التكبير بإصبعين,t-takbir b-jouj sba3,zooming in or out by spreading or pinching two fingers
 buffering,mise en mémoire tampon,التخزين المؤقت,t-takhzin l-mo2aqqat,the short wait while a video loads the next seconds before playing
+reverse ETL,ETL inversé,إي تي إل المعكوس,ETL l-ma3kous,moving data from the warehouse back into business apps
+dataops,dataops,داتا أوبس,dataops,the practices that automate and manage data pipelines
+mlops,mlops,إم إل أوبس,mlops,the practices that deploy and operate machine learning models
+model monitoring,surveillance des modèles,مراقبة النماذج,mouraqabat n-namadhij,watching a deployed model for drift and errors
+data clean room,salle blanche de données,غرفة البيانات النظيفة,ghorfat l-bayanat n-nadhifa,a safe shared space where two parties analyse data without exposing raw records
