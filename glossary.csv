@@ -734,3 +734,8 @@ nearby share,partage à proximité,المشاركة القريبة,l-mocharaka l
 data saver,économiseur de données,موفر البيانات,mowaffir l-bayanat,the mode that limits background data use
 app timer,minuteur d'application,مؤقت التطبيقات,mo2aqqit t-tatbiqat,a daily time limit set on one app
 digital wellbeing,bien-être numérique,الرفاهية الرقمية,r-rafahiya r-raqmiya,the phone tools that help you use apps less
+streaming analytics,analyse en streaming,تحليلات البث المباشر,ta7lilat l-bath l-mubashir,"analysing data as it arrives, without waiting for a batch"
+data quality score,score de qualité des données,نقطة جودة المعطيات,nuqtat jawdat l-ma3loumat,a single number that rates how clean and reliable a dataset is
+real-time processing,traitement en temps réel,المعالجة في الوقت الحقيقي,l-mu3alaja fi l-waqt l-7aqiqi,"handling data the moment it arrives, with almost no delay"
+data strategy,stratégie de données,استراتيجية المعطيات,istrategiyat l-ma3loumat,"the plan for how an organisation collects, stores and uses its data"
+data streaming,diffusion de données,بث المعطيات,bath l-ma3loumat,"sending data continuously as a flow, instead of in one big file"
