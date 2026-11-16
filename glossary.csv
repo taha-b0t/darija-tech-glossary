@@ -764,3 +764,8 @@ tablet,tablette,لوحة إلكترونية,law7a electronique,"a flat touchscre
 compass,boussole,البوصلة,l-bosla,an app or tool that shows which direction is north
 power button,bouton d'alimentation,زر التشغيل,zarr t-tashghil,the button that turns a device on or off
 volume button,bouton de volume,زر الصوت,zarr s-sawt,the button on the side of a phone that turns the sound up or down
+OLAP,OLAP (traitement analytique en ligne),المعالجة التحليلية عبر الإنترنت,l-mo3alaja t-ta7liliya 3abr l-internet,analytical processing; OLAP is used as-is by devs
+OLTP,OLTP (traitement transactionnel en ligne),المعالجة المعاملاتية عبر الإنترنت,l-mo3alaja l-mo3amalatiya 3abr l-internet,transactional processing; OLTP is used as-is by devs
+materialized view,vue matérialisée,عرض مادي,3ard madi,precomputed query result stored like a table
+columnar storage,stockage en colonnes,التخزين العمودي,t-takhzin l-3amoudi,data stored column by column; used by analytical databases
+shard,fragment (shard),شارد,shard,a horizontal partition of a database spread across machines; borrowed term
