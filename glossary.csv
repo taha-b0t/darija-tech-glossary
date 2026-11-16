@@ -769,3 +769,8 @@ OLTP,OLTP (traitement transactionnel en ligne),المعالجة المعاملا
 materialized view,vue matérialisée,عرض مادي,3ard madi,precomputed query result stored like a table
 columnar storage,stockage en colonnes,التخزين العمودي,t-takhzin l-3amoudi,data stored column by column; used by analytical databases
 shard,fragment (shard),شارد,shard,a horizontal partition of a database spread across machines; borrowed term
+barcode scanner,lecteur de code-barres,قارئ الباركود,qari2 l-barkod,scans barcodes with the phone camera
+audiobook,livre audio,كتاب صوتي,ktab sawti,a book you listen to instead of reading
+ebook,livre électronique,كتاب إلكتروني,ktab iliktroni,a book read on a screen
+FM radio,radio FM,راديو إف إم,radio FM,live radio stations on the phone
+magnifier,loupe,عدسة مكبرة,3adasa mokabbira,zooms in on small text using the camera
