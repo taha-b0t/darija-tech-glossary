@@ -759,3 +759,8 @@ model training,entraînement de modèle,تدريب النموذج,tadrib n-namou
 data validation,validation des données,التحقق من المعطيات,t-ta7aqquq min l-ma3loumat,checking that data is correct and complete before using it
 model versioning,versionnage de modèle,إصدار النماذج,isdar n-namoudaj,keeping track of each saved version of a model so you can go back to an earlier one
 hyperparameter tuning,réglage des hyperparamètres,ضبط المعاملات الفائقة,dabt l-mo3amilat l-fa2iqa,adjusting a model's settings to get better results
+laptop,ordinateur portable,حاسوب محمول,7asoub ma7moul,a portable computer you can carry and use anywhere
+tablet,tablette,لوحة إلكترونية,law7a electronique,"a flat touchscreen computer, bigger than a phone, smaller than a laptop"
+compass,boussole,البوصلة,l-bosla,an app or tool that shows which direction is north
+power button,bouton d'alimentation,زر التشغيل,zarr t-tashghil,the button that turns a device on or off
+volume button,bouton de volume,زر الصوت,zarr s-sawt,the button on the side of a phone that turns the sound up or down
