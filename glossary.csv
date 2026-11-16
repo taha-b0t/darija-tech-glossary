@@ -754,3 +754,8 @@ face ID,Face ID,بصمة الوجه,basmat l-wajh,Apple's face recognition syste
 touch ID,Touch ID,فتح بالبصمة,fath b-l-basma,Apple's fingerprint sensor for unlocking a phone
 contactless payment,paiement par carte sans contact,الدفع بدون لمس,d-daf3 bidoun lams,"paying with a card by holding it near the terminal, no PIN needed"
 trackpad,pavé tactile,لوحة اللمس,law7at l-lams,the flat touch surface on a laptop used as a mouse
+model explainability,explicabilité du modèle,قابلية تفسير النموذج,qabiliyat tafsir n-namoudaj,understanding why a model made a particular prediction
+model training,entraînement de modèle,تدريب النموذج,tadrib n-namoudaj,teaching a model by showing it examples until it learns the patterns
+data validation,validation des données,التحقق من المعطيات,t-ta7aqquq min l-ma3loumat,checking that data is correct and complete before using it
+model versioning,versionnage de modèle,إصدار النماذج,isdar n-namoudaj,keeping track of each saved version of a model so you can go back to an earlier one
+hyperparameter tuning,réglage des hyperparamètres,ضبط المعاملات الفائقة,dabt l-mo3amilat l-fa2iqa,adjusting a model's settings to get better results
