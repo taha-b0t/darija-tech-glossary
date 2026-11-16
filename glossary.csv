@@ -750,3 +750,7 @@ silver layer,couche argent,الطبقة الفضية,t-tbaqa l-fiddiya,the clean
 gold layer,couche or,الطبقة الذهبية,t-tbaqa d-dahabiya,"the business-ready, aggregated data layer in a medallion architecture"
 schema on read,schéma à la lecture,المخطط عند القراءة,l-mokhattat 3ind l-qira2a,"applying a structure to data only when it is read, not when it is stored"
 schema on write,schéma à l'écriture,المخطط عند الكتابة,l-mokhattat 3ind l-kitaba,"enforcing a structure on data when it is written, like a database table"
+face ID,Face ID,بصمة الوجه,basmat l-wajh,Apple's face recognition system for unlocking a phone
+touch ID,Touch ID,فتح بالبصمة,fath b-l-basma,Apple's fingerprint sensor for unlocking a phone
+contactless payment,paiement par carte sans contact,الدفع بدون لمس,d-daf3 bidoun lams,"paying with a card by holding it near the terminal, no PIN needed"
+trackpad,pavé tactile,لوحة اللمس,law7at l-lams,the flat touch surface on a laptop used as a mouse
