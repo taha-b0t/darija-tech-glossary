@@ -744,3 +744,9 @@ cloud sync,synchronisation cloud,المزامنة مع السحابة,l-muzamana
 system update,mise à jour du système,تحديث النظام,ta7dith n-nidam,an update that brings new features and fixes to the operating system
 software update,mise à jour logicielle,تحديث البرنامج,ta7dith l-barnamaj,"a newer version of an app or program, usually with fixes"
 splash screen,écran de démarrage,شاشة البداية,shashat l-bidaya,the first screen an app shows for a moment while it loads
+medallion architecture,architecture médaillon,هندسة الميداليون,handasat l-medallion,"organising a lakehouse into bronze, silver and gold layers of increasing quality"
+bronze layer,couche bronze,الطبقة البرونزية,t-tbaqa l-bronziya,"the raw, uncleaned data layer in a medallion architecture"
+silver layer,couche argent,الطبقة الفضية,t-tbaqa l-fiddiya,the cleaned and validated data layer in a medallion architecture
+gold layer,couche or,الطبقة الذهبية,t-tbaqa d-dahabiya,"the business-ready, aggregated data layer in a medallion architecture"
+schema on read,schéma à la lecture,المخطط عند القراءة,l-mokhattat 3ind l-qira2a,"applying a structure to data only when it is read, not when it is stored"
+schema on write,schéma à l'écriture,المخطط عند الكتابة,l-mokhattat 3ind l-kitaba,"enforcing a structure on data when it is written, like a database table"
