@@ -774,3 +774,8 @@ audiobook,livre audio,كتاب صوتي,ktab sawti,a book you listen to instead 
 ebook,livre électronique,كتاب إلكتروني,ktab iliktroni,a book read on a screen
 FM radio,radio FM,راديو إف إم,radio FM,live radio stations on the phone
 magnifier,loupe,عدسة مكبرة,3adasa mokabbira,zooms in on small text using the camera
+snowflake schema,schéma en flocon de neige,مخطط ندفة الثلج,mokhattat nadafat t-talj,a star schema variant where dimensions are normalized into multiple tables
+window function,fonction de fenêtre,دالة النافذة,dalla n-nafida,a SQL function that computes across rows related to the current row
+common table expression,expression de table commune,تعبير الجدول المشترك,ta3bir l-jadwal l-mochtarak,a named temporary result set defined with WITH in SQL
+data skew,asymétrie des données,انحراف البيانات,in7iraf l-bayanat,uneven distribution of data across partitions that slows processing
+data hub,hub de données,مركز البيانات,markaz l-bayanat,a central place that connects and shares data between systems
