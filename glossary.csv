@@ -779,3 +779,8 @@ window function,fonction de fenêtre,دالة النافذة,dalla n-nafida,a SQ
 common table expression,expression de table commune,تعبير الجدول المشترك,ta3bir l-jadwal l-mochtarak,a named temporary result set defined with WITH in SQL
 data skew,asymétrie des données,انحراف البيانات,in7iraf l-bayanat,uneven distribution of data across partitions that slows processing
 data hub,hub de données,مركز البيانات,markaz l-bayanat,a central place that connects and shares data between systems
+low power mode,mode basse consommation,وضع الطاقة المنخفضة,wad3 t-taqa l-monkhafida,limits background activity to save battery when it is almost empty
+blocked number,numéro bloqué,رقم محظور,raqm ma7dour,a number you blocked so its calls and messages never reach you
+emergency SOS,appel d'urgence SOS,نداء الطوارئ SOS,nida2 t-tawari2 SOS,quick emergency call triggered by pressing the power button several times
+safe mode,mode sans échec,الوضع الآمن,l-wad3 l-2amin,a diagnostic mode that starts the phone with only system apps
+developer mode,mode développeur,وضع المطور,wad3 l-motawwir,unlocks advanced settings for developers after tapping the build number
