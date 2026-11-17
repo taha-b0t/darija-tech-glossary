@@ -794,3 +794,8 @@ app crash,plantage d'application,تعطل التطبيق,ta3attol t-tatbiq,when 
 fingerprint sensor,capteur d'empreinte digitale,مستشعر بصمة الإصبع,moustach3ir basmat l-isba3,the sensor that reads your fingerprint to unlock the phone
 face recognition,reconnaissance faciale,التعرف على الوجه,ta3arrof 3la l-wajh,technology that identifies a person from their face
 status bar,barre d'état,شريط الحالة,charit l-hala,"the bar at the top of the screen showing time, battery and signal"
+data mapping,cartographie des données,تخطيط المعطيات,takhtit l-ma3loumat,matching fields between two datasets
+data classification,classification des données,تصنيف المعطيات,tasnif l-ma3loumat,labelling data by sensitivity or type
+schema design,conception de schéma,تصميم المخطط,tasmim l-mokhattat,designing tables and their relationships
+query plan,plan d'exécution,مخطط تنفيذ الاستعلام,mokhattat tanfidh l-isti3lam,how the database engine runs a query
+slow query,requête lente,استعلام بطيء,isti3lam bati2,a query that takes too long to run
