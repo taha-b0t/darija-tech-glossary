@@ -814,3 +814,8 @@ navigation bar,barre de navigation,شريط التنقل,charit t-tanaqol,"bar a
 control center,centre de contrôle,مركز التحكم,markaz t-tahakom,"panel with quick toggles for wifi, brightness and more"
 notification shade,volet de notifications,لوحة الإشعارات,lawhat l-ich3arat,panel pulled down from the top to see notifications
 call screening,filtrage des appels,فحص المكالمات,fahs l-moukalamat,phone feature that filters spam or unknown calls
+data refresh,actualisation des données,تحديث المعطيات,tahdit l-ma3loumat,reloading data so reports show the latest values
+data lineage tracking,suivi de la lignée des données,تتبع مصدر المعطيات,tatabou3 masdar l-ma3loumat,following data from its source to where it is used
+data warehouse automation,automatisation de l’entrepôt de données,أتمتة مستودع المعطيات,atmatat mostawda3 l-ma3loumat,using tools to build and maintain a data warehouse with less manual work
+data ingestion pipeline,pipeline d’ingestion des données,قناة استيعاب المعطيات,qanat isti3ab l-ma3loumat,the automated flow that collects data from sources into storage
+real-time dashboard,tableau de bord en temps réel,لوحة تحكم فورية,lawhat tahakkom fawriya,a screen that shows live numbers as they change
