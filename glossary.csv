@@ -799,3 +799,8 @@ data classification,classification des données,تصنيف المعطيات,tasn
 schema design,conception de schéma,تصميم المخطط,tasmim l-mokhattat,designing tables and their relationships
 query plan,plan d'exécution,مخطط تنفيذ الاستعلام,mokhattat tanfidh l-isti3lam,how the database engine runs a query
 slow query,requête lente,استعلام بطيء,isti3lam bati2,a query that takes too long to run
+group video call,appel vidéo de groupe,مكالمة فيديو جماعية,moukalamat video jama3iya,a video call with several people
+light mode,mode clair,الوضع الفاتح,l-wad3 l-fatih,"bright screen theme, opposite of dark mode"
+sticker pack,pack d'autocollants,حزمة الملصقات,hazmat l-molsaqat,a set of stickers for chats
+portrait mode,mode portrait,وضع البورتريه,wad3 l-portrait,camera mode that blurs the background
+blue light filter,filtre de lumière bleue,مرشح الضوء الأزرق,mourachih d-daw l-azraq,screen filter that reduces blue light at night
