@@ -784,3 +784,8 @@ blocked number,numéro bloqué,رقم محظور,raqm ma7dour,a number you block
 emergency SOS,appel d'urgence SOS,نداء الطوارئ SOS,nida2 t-tawari2 SOS,quick emergency call triggered by pressing the power button several times
 safe mode,mode sans échec,الوضع الآمن,l-wad3 l-2amin,a diagnostic mode that starts the phone with only system apps
 developer mode,mode développeur,وضع المطور,wad3 l-motawwir,unlocks advanced settings for developers after tapping the build number
+data aggregation,agrégation de données,تجميع المعطيات,tajmi3 l-ma3loumat,combining data from several sources into one summary
+data exploration,exploration des données,استكشاف المعطيات,istikchaf l-ma3loumat,a first look at a dataset to understand its shape and patterns
+data stewardship,intendance des données,تدبير المعطيات,tadbir l-ma3loumat,managing and caring for an organisation's data assets
+data ethics,éthique des données,أخلاقيات المعطيات,akhlaqiyat l-ma3loumat,the rules for using data fairly and responsibly
+data privacy,confidentialité des données,خصوصية المعطيات,khousousiyat l-ma3loumat,protecting people's personal data from misuse
