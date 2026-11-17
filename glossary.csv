@@ -809,3 +809,8 @@ data literacy,littératie des données,الثقافة البيانية,taqafa ba
 data storytelling,narration de données,سرد البيانات,sard l-bayanat,explaining data through stories and visuals
 disaster recovery,reprise après sinistre,استعادة البيانات بعد الكارثة,isti3adat l-bayanat ba3d l-karitha,restoring systems and data after a failure or disaster
 data archiving,archivage des données,أرشفة البيانات,archafat l-bayanat,storing old data for long-term keeping
+screen saver,économiseur d'écran,شاشة التوقف,chachat t-tawqof,moving pattern shown when the screen is idle
+navigation bar,barre de navigation,شريط التنقل,charit t-tanaqol,"bar at the bottom of the screen with back, home and recent buttons"
+control center,centre de contrôle,مركز التحكم,markaz t-tahakom,"panel with quick toggles for wifi, brightness and more"
+notification shade,volet de notifications,لوحة الإشعارات,lawhat l-ich3arat,panel pulled down from the top to see notifications
+call screening,filtrage des appels,فحص المكالمات,fahs l-moukalamat,phone feature that filters spam or unknown calls
