@@ -859,3 +859,8 @@ left join,jointure gauche,الربط الأيسر,r-rabt l-aysar,returns all row
 cross join,jointure croisée,الربط المتقاطع,r-rabt l-mouta9ati3,returns every combination of rows from both tables
 union,union,الاتحاد,l-ittihad,combines the results of two queries and removes duplicate rows
 query builder,générateur de requêtes,منشئ الاستعلامات,mounchi2 l-istifsarat,a visual tool for building database queries without writing SQL
+qr scanner,lecteur de code QR,ماسح رمز QR,massih ramz QR,reads QR codes with the phone camera
+heart rate monitor,moniteur de fréquence cardiaque,مراقب معدل ضربات القلب,mouraqib ma3dal darabat l-qalb,measures your heartbeat usually from a watch or band
+sleep tracking,suivi du sommeil,تتبع النوم,tatabou3 n-noum,records how long and how well you sleep
+step counter,podomètre,عداد الخطوات,3addad l-khatawat,counts the steps you walk each day
+weather forecast,prévisions météo,توقعات الطقس,tawaqou3at t-taqs,the predicted weather for the coming hours or days
