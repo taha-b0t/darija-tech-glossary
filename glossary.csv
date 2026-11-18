@@ -824,3 +824,8 @@ auto update,mise à jour automatique,التحديث التلقائي,t-tahdit t-
 private browsing,navigation privée,التصفح الخاص,t-tasaffoh l-khass,a browser mode that does not save history or cookies after you close it
 live caption,sous-titres en direct,الترجمة الفورية على الشاشة,t-tarjama l-fawriya 3la ch-chacha,automatic on-screen text for what is being said in a video or call
 app rating,évaluation d’application,تقييم التطبيق,taqyim t-tatbiq,the stars users give an app in the store
+edge computing,informatique en périphérie,الحوسبة الطرفية,l-7awsaba t-tarfiya,processing data close to where it is generated instead of in a central cloud
+data virtualization,virtualisation des données,افتراضية المعطيات,iftiradyat l-ma3loumat,accessing data from many sources through one virtual layer without moving it
+feature drift,dérive des caractéristiques,انحراف الخصائص,in7iraf l-khasa2is,when the input features of a model change over time
+concept drift,dérive de concept,انحراف المفهوم,in7iraf l-mafhoum,when the relationship a model learned no longer matches reality
+event store,magasin d'événements,مخزن الأحداث,makhzan l-a7dath,a database that keeps every event as an append-only log
