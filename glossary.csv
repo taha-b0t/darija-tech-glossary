@@ -844,3 +844,8 @@ chat backup,sauvegarde des conversations,نسخة احتياطية للدردش�
 notification history,historique des notifications,سجل الإشعارات,sijl l-ich3arat,a list of notifications you received earlier
 payment method,moyen de paiement,طريقة الدفع,tariqat d-daf3,the card or account you pay with in an app
 order tracking,suivi de commande,تتبع الطلب,tatabou3 t-talab,following a delivery step by step in the app
+row-level security,sécurité au niveau des lignes,الأمان على مستوى الصفوف,l-aman 3la moustawa s-soufouf,restricting who can see individual rows of a table
+data lifecycle,cycle de vie des données,دورة حياة المعطيات,dawrat 7ayat l-ma3loumat,the stages data goes through from creation to deletion
+data compression,compression des données,ضغط المعطيات,daght l-ma3loumat,making data smaller so it takes less storage space
+data standardization,standardisation des données,توحيد المعطيات,taw7id l-ma3loumat,putting data into one common format so systems can share it
+data minimization,minimisation des données,تقليل المعطيات,taqlil l-ma3loumat,collecting only the data that is really needed and nothing more
