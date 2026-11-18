@@ -854,3 +854,8 @@ guest mode,mode invité,وضع الضيف,wad3 d-dayf,a temporary profile that l
 reading mode,mode lecture,وضع القراءة,wad3 l-qira2a,a screen setting that makes text easier to read for a long time
 driving mode,mode conduite,وضع القيادة,wad3 l-qiyada,a mode that silences notifications and reads messages aloud while you drive
 pattern lock,schéma de déverrouillage,قفل النمط,qafl n-namat,unlocking your phone by drawing a shape on the screen
+inner join,jointure interne,الربط الداخلي,r-rabt d-dakhili,returns only rows that match in both tables
+left join,jointure gauche,الربط الأيسر,r-rabt l-aysar,returns all rows from the left table plus matching rows from the right
+cross join,jointure croisée,الربط المتقاطع,r-rabt l-mouta9ati3,returns every combination of rows from both tables
+union,union,الاتحاد,l-ittihad,combines the results of two queries and removes duplicate rows
+query builder,générateur de requêtes,منشئ الاستعلامات,mounchi2 l-istifsarat,a visual tool for building database queries without writing SQL
