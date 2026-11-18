@@ -849,3 +849,8 @@ data lifecycle,cycle de vie des données,دورة حياة المعطيات,dawr
 data compression,compression des données,ضغط المعطيات,daght l-ma3loumat,making data smaller so it takes less storage space
 data standardization,standardisation des données,توحيد المعطيات,taw7id l-ma3loumat,putting data into one common format so systems can share it
 data minimization,minimisation des données,تقليل المعطيات,taqlil l-ma3loumat,collecting only the data that is really needed and nothing more
+uninstall,désinstaller,إلغاء التثبيت,ilgha2 at-tatbit,removing an app from your phone completely
+guest mode,mode invité,وضع الضيف,wad3 d-dayf,a temporary profile that lets someone use your phone without seeing your data
+reading mode,mode lecture,وضع القراءة,wad3 l-qira2a,a screen setting that makes text easier to read for a long time
+driving mode,mode conduite,وضع القيادة,wad3 l-qiyada,a mode that silences notifications and reads messages aloud while you drive
+pattern lock,schéma de déverrouillage,قفل النمط,qafl n-namat,unlocking your phone by drawing a shape on the screen
