@@ -834,3 +834,8 @@ battery widget,widget de batterie,ويدجيت البطارية,widget l-batteri
 countdown timer,compte à rebours,مؤقت العد التنازلي,mou2a99it l-3ad t-tanazouli,a timer that counts down to zero
 night light,lumière de nuit,ضوء الليل,daw l-layl,a warm screen tint that reduces blue light at night
 music widget,widget musique,ويدجيت الموسيقى,widget l-mousiqa,a home screen widget that controls music playback
+time travel,voyage temporel,السفر عبر الزمن,s-safar 3abr z-zaman,reading older versions of a dataset as it was at a past point in time
+partition pruning,élagage des partitions,تقليم الأقسام,taqlim l-aqsam,skipping partitions a query does not need so it reads less data
+data federation,fédération des données,اتحاد المعطيات,ittihad l-ma3loumat,querying data across several sources without moving it into one place
+data sandbox,bac à sable de données,بيئة تجريبية للمعطيات,bi2a tajribiya lil-ma3loumat,a safe isolated copy of data where analysts can experiment
+column-level security,sécurité au niveau des colonnes,الأمان على مستوى الأعمدة,l-aman 3la moustawa l-a3mida,restricting who can see individual columns of a table
