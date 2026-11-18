@@ -829,3 +829,8 @@ data virtualization,virtualisation des données,افتراضية المعطيا�
 feature drift,dérive des caractéristiques,انحراف الخصائص,in7iraf l-khasa2is,when the input features of a model change over time
 concept drift,dérive de concept,انحراف المفهوم,in7iraf l-mafhoum,when the relationship a model learned no longer matches reality
 event store,magasin d'événements,مخزن الأحداث,makhzan l-a7dath,a database that keeps every event as an append-only log
+app switcher,sélecteur d'applications,مبدّل التطبيقات,mbeddel t-tatbiqat,the view that lets you jump between open apps
+battery widget,widget de batterie,ويدجيت البطارية,widget l-batteria,a home screen widget that shows the battery level
+countdown timer,compte à rebours,مؤقت العد التنازلي,mou2a99it l-3ad t-tanazouli,a timer that counts down to zero
+night light,lumière de nuit,ضوء الليل,daw l-layl,a warm screen tint that reduces blue light at night
+music widget,widget musique,ويدجيت الموسيقى,widget l-mousiqa,a home screen widget that controls music playback
