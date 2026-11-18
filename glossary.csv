@@ -839,3 +839,8 @@ partition pruning,élagage des partitions,تقليم الأقسام,taqlim l-aqs
 data federation,fédération des données,اتحاد المعطيات,ittihad l-ma3loumat,querying data across several sources without moving it into one place
 data sandbox,bac à sable de données,بيئة تجريبية للمعطيات,bi2a tajribiya lil-ma3loumat,a safe isolated copy of data where analysts can experiment
 column-level security,sécurité au niveau des colonnes,الأمان على مستوى الأعمدة,l-aman 3la moustawa l-a3mida,restricting who can see individual columns of a table
+status update,mise à jour du statut,تحديث الحالة,ta7dith l-7ala,a short photo or text friends see for 24 hours
+chat backup,sauvegarde des conversations,نسخة احتياطية للدردشات,nouskha i7tiyatiya lid-dardachat,a saved copy of your chats you can restore on a new phone
+notification history,historique des notifications,سجل الإشعارات,sijl l-ich3arat,a list of notifications you received earlier
+payment method,moyen de paiement,طريقة الدفع,tariqat d-daf3,the card or account you pay with in an app
+order tracking,suivi de commande,تتبع الطلب,tatabou3 t-talab,following a delivery step by step in the app
