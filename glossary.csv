@@ -864,3 +864,8 @@ heart rate monitor,moniteur de fréquence cardiaque,مراقب معدل ضربا
 sleep tracking,suivi du sommeil,تتبع النوم,tatabou3 n-noum,records how long and how well you sleep
 step counter,podomètre,عداد الخطوات,3addad l-khatawat,counts the steps you walk each day
 weather forecast,prévisions météo,توقعات الطقس,tawaqou3at t-taqs,the predicted weather for the coming hours or days
+right join,jointure droite,الربط الأيمن,r-rabt l-aymen,returns all rows from the right table plus matching rows from the left
+full outer join,jointure externe complète,الربط الخارجي الكامل,r-rabt l-khariji l-kamil,returns all rows from both tables with nulls where there is no match
+subquery,sous-requête,استعلام فرعي,isti3lam far3i,a query nested inside another query
+aggregate function,fonction d'agrégation,دالة تجميعية,dalla tajmi3iya,"a function like COUNT or SUM that combines many rows into one value"
+group by,clause GROUP BY,التجميع حسب,t-tajmi3 7asab,groups rows with the same values so aggregate functions can run per group
