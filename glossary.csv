@@ -869,3 +869,8 @@ full outer join,jointure externe complète,الربط الخارجي الكام�
 subquery,sous-requête,استعلام فرعي,isti3lam far3i,a query nested inside another query
 aggregate function,fonction d'agrégation,دالة تجميعية,dalla tajmi3iya,"a function like COUNT or SUM that combines many rows into one value"
 group by,clause GROUP BY,التجميع حسب,t-tajmi3 7asab,groups rows with the same values so aggregate functions can run per group
+workout tracker,suivi d'entraînement,متتبع التمارين,mouttabbi3 t-tamarin,an app that records exercises sets and progress
+calorie counter,compteur de calories,عداد السعرات الحرارية,3addad s-so3rat l-7arariya,an app that tracks calories eaten and burned
+water reminder,rappel d'hydratation,تذكير بشرب الماء,tadkir b-shorb l-ma,a notification that reminds you to drink water
+sleep schedule,horaire de sommeil,جدول النوم,jadwal n-noum,planned bedtime and wake-up times
+meditation app,application de méditation,تطبيق التأمل,tatbi9 t-ta'ammoul,an app that guides breathing and meditation sessions
