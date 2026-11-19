@@ -879,3 +879,8 @@ order by,trier par,الترتيب حسب,t-tartib 7sab,sorts query results by on
 having,clause having,شرط هافينغ,shart having,filters groups after GROUP BY like WHERE filters rows
 limit,limite,ليميت,limit,sets the maximum number of rows a query returns
 offset,offset,أوفست,offset,skips a number of rows before returning results
+slow motion,ralenti,الحركة البطيئة,l-7araka l-bati2a,video recorded at high speed and played back slowly
+time lapse,accéléré,التصوير المتسارع,t-taswir l-motasari3,video made from photos taken at intervals and played fast
+factory reset,réinitialisation d'usine,إعادة ضبط المصنع,i3adat dabt l-masna3,erases all data and settings and returns a phone to its original state
+gyroscope,gyroscope,جيروسكوب,jiroskop,a sensor that detects rotation and orientation of a phone
+accelerometer,accéléromètre,مقياس التسارع,mi9yas t-tasaro3,a sensor that measures movement and acceleration of a phone
