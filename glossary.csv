@@ -867,7 +867,7 @@ weather forecast,prévisions météo,توقعات الطقس,tawaqou3at t-taqs,t
 right join,jointure droite,الربط الأيمن,r-rabt l-aymen,returns all rows from the right table plus matching rows from the left
 full outer join,jointure externe complète,الربط الخارجي الكامل,r-rabt l-khariji l-kamil,returns all rows from both tables with nulls where there is no match
 subquery,sous-requête,استعلام فرعي,isti3lam far3i,a query nested inside another query
-aggregate function,fonction d'agrégation,دالة تجميعية,dalla tajmi3iya,"a function like COUNT or SUM that combines many rows into one value"
+aggregate function,fonction d'agrégation,دالة تجميعية,dalla tajmi3iya,a function like COUNT or SUM that combines many rows into one value
 group by,clause GROUP BY,التجميع حسب,t-tajmi3 7asab,groups rows with the same values so aggregate functions can run per group
 workout tracker,suivi d'entraînement,متتبع التمارين,mouttabbi3 t-tamarin,an app that records exercises sets and progress
 calorie counter,compteur de calories,عداد السعرات الحرارية,3addad s-so3rat l-7arariya,an app that tracks calories eaten and burned
@@ -889,3 +889,8 @@ alter table,modification de table,تعديل جدول,ta3dil jadwal,changing the
 drop table,suppression de table,حذف جدول,hadf jadwal,deleting a table and all its data
 where clause,clause where,جملة الشرط,joumlat ch-chart,filtering rows with a condition in a query
 not null,non nul,غير فارغ,ghayr farigh,a constraint that forbids empty values in a column
+signal strength,force du signal,قوة الإشارة,9ouwwat l-ichara,how strong the mobile or wifi signal is
+low battery,batterie faible,البطارية منخفضة,l-battaria monkhafida,when the phone battery is almost empty
+dictation,dictée,إملاء صوتي,imla' sawti,speaking words that the phone types for you
+screen resolution,résolution d'écran,دقة الشاشة,da99at ch-chacha,how sharp and detailed the screen image is
+auto rotate,rotation automatique,تدوير تلقائي,tadwir til9a'i,turning the screen when you turn the phone
