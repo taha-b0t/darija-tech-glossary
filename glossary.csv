@@ -894,3 +894,8 @@ low battery,batterie faible,البطارية منخفضة,l-battaria monkhafida,
 dictation,dictée,إملاء صوتي,imla' sawti,speaking words that the phone types for you
 screen resolution,résolution d'écran,دقة الشاشة,da99at ch-chacha,how sharp and detailed the screen image is
 auto rotate,rotation automatique,تدوير تلقائي,tadwir til9a'i,turning the screen when you turn the phone
+insert into,insérer dans,إدخال في,idkhal fi,adding new rows to a table
+delete from,supprimer de,حذف من,hadf min,deleting rows from a table
+between,entre,بين,bayn,checking if a value is inside a range in a query
+count,compter,عدّ,l-3add,counting how many rows match a query
+sum,somme,مجموع,majmou3,adding up all the values in a column
