@@ -899,3 +899,8 @@ delete from,supprimer de,حذف من,hadf min,deleting rows from a table
 between,entre,بين,bayn,checking if a value is inside a range in a query
 count,compter,عدّ,l-3add,counting how many rows match a query
 sum,somme,مجموع,majmou3,adding up all the values in a column
+haptic feedback,retour haptique,رد فعل لمسي,radd fi3l lamsi,small vibrations that confirm a touch on the screen
+language,langue,اللغة,l-lougha,the language used by the phone and its apps
+time zone,fuseau horaire,المنطقة الزمنية,l-minta9a z-zamaniya,the region that sets the local time on a device
+accessibility,accessibilité,إمكانية الوصول,imkaniyat l-wosoul,settings that make the phone easier to use for everyone
+date and time,date et heure,التاريخ والوقت,t-tarikh w l-wa9t,the date and clock settings on a device
