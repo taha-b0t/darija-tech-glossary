@@ -874,3 +874,8 @@ calorie counter,compteur de calories,عداد السعرات الحرارية,3a
 water reminder,rappel d'hydratation,تذكير بشرب الماء,tadkir b-shorb l-ma,a notification that reminds you to drink water
 sleep schedule,horaire de sommeil,جدول النوم,jadwal n-noum,planned bedtime and wake-up times
 meditation app,application de méditation,تطبيق التأمل,tatbi9 t-ta'ammoul,an app that guides breathing and meditation sessions
+distinct,distinct,مميز,momayyaz,keeps only one copy of each value in a query result
+order by,trier par,الترتيب حسب,t-tartib 7sab,sorts query results by one or more columns
+having,clause having,شرط هافينغ,shart having,filters groups after GROUP BY like WHERE filters rows
+limit,limite,ليميت,limit,sets the maximum number of rows a query returns
+offset,offset,أوفست,offset,skips a number of rows before returning results
