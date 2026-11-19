@@ -884,3 +884,8 @@ time lapse,accéléré,التصوير المتسارع,t-taswir l-motasari3,vide
 factory reset,réinitialisation d'usine,إعادة ضبط المصنع,i3adat dabt l-masna3,erases all data and settings and returns a phone to its original state
 gyroscope,gyroscope,جيروسكوب,jiroskop,a sensor that detects rotation and orientation of a phone
 accelerometer,accéléromètre,مقياس التسارع,mi9yas t-tasaro3,a sensor that measures movement and acceleration of a phone
+create table,création de table,إنشاء جدول,incha' jadwal,creating a new table in a database
+alter table,modification de table,تعديل جدول,ta3dil jadwal,changing the structure of an existing table
+drop table,suppression de table,حذف جدول,hadf jadwal,deleting a table and all its data
+where clause,clause where,جملة الشرط,joumlat ch-chart,filtering rows with a condition in a query
+not null,non nul,غير فارغ,ghayr farigh,a constraint that forbids empty values in a column
