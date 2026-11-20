@@ -939,3 +939,8 @@ composite key,clé composite,مفتاح مركب,miftah morakkab,a primary key m
 check constraint,contrainte check,قيد التحقق,9ayd t-ta7a99o9,a rule that limits the values a column is allowed to hold
 cascade delete,suppression en cascade,الحذف المتتابع,l-7adhf l-motatabi3,deleting a row also deletes the rows linked to it in other tables
 natural key,clé naturelle,مفتاح طبيعي,miftah tabi3i,"a key that already exists in the real data, like an email address"
+always on display,écran toujours allumé,الشاشة الدائمة,ch-chacha d-da2ima,shows the time and notifications while the screen looks off
+clipboard history,historique du presse-papiers,سجل الحافظة,sijil l-hafida,a list of the texts and images you copied recently
+kids mode,mode enfants,وضع الأطفال,wad3 l-2atfal,a restricted mode that only shows apps that are safe for children
+app library,bibliothèque d'applications,مكتبة التطبيقات,maktabat t-tatbi9at,a screen that groups all your apps by category
+notification center,centre de notifications,مركز الإشعارات,markaz l-ich3arat,the place where all your notifications wait until you read them
