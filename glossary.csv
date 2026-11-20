@@ -914,3 +914,8 @@ quick share,partage rapide,مشاركة سريعة,mocharaka sari3a,sending a fi
 auto save,enregistrement automatique,حفظ تلقائي,hifd til9a'i,saving your work automatically without you pressing save
 spell check,vérification orthographique,تدقيق إملائي,tad9i9 imla'i,checking the spelling of words as you type
 recent files,fichiers récents,ملفات حديثة,milaffat haditha,"the files you opened most recently, shown for quick access"
+case when,expression CASE WHEN,كاز وِن,case when,a conditional expression in SQL that returns a value depending on which condition is true
+concat,concaténation,ربط النصوص,rabt n-nosos,joining two or more text values into one in SQL
+round,arrondi,التقريب,ta9rib,rounding a number to the nearest whole number or to a set number of decimals
+unique constraint,contrainte d'unicité,قيد التفرد,9ayd t-tafarrud,a rule that makes sure no two rows in a table share the same value in a column
+default value,valeur par défaut,قيمة افتراضية,9ima iftiradya,the value a column gets automatically when no value is given on insert
