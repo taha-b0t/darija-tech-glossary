@@ -924,3 +924,8 @@ master data,données maîtres,المعطيات الرئيسية,l-ma3loumat r-ra
 golden record,enregistrement de référence,السجل الذهبي,s-sijl d-dahabi,the single best agreed version of a record built from several conflicting sources
 data monetization,monétisation des données,تحقيق الربح من المعطيات,tah9i9 r-ribh min l-ma3loumat,"earning money from data, by selling it or using it to create value"
 transactional data,données transactionnelles,معطيات المعاملات,ma3loumat l-mo3amalat,"data created by day-to-day operations, like orders and payments"
+avg,fonction avg,دالة أفغ,dalat avg,the SQL function that returns the average of a column
+exists,existe,موجود,mawjoud,tests whether a subquery returns at least one row
+trim,fonction trim,دالة تريم,dalat trim,removes spaces from the start and the end of a text value
+upper,fonction upper,دالة أبر,dalat upper,converts a text value to capital letters
+lower,fonction lower,دالة لاور,dalat lower,converts a text value to small letters
