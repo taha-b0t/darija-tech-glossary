@@ -934,3 +934,8 @@ derived data,données dérivées,المعطيات المشتقة,l-ma3loumat l-m
 structured data,données structurées,المعطيات المهيكلة,l-ma3loumat l-mhaykla,"data organised in fixed rows and columns, like a table"
 unstructured data,données non structurées,المعطيات غير المهيكلة,l-ma3loumat ghayr l-mhaykla,"data with no fixed shape, like free text, images or videos"
 semi-structured data,données semi-structurées,المعطيات شبه المهيكلة,l-ma3loumat chibh l-mhaykla,"data with some organisation but no fixed table, like JSON or XML"
+auto increment,auto-incrément,الزيادة التلقائية,z-ziyada t-til9a2iya,a column that automatically gets the next number for each new row
+composite key,clé composite,مفتاح مركب,miftah morakkab,a primary key made of two or more columns together
+check constraint,contrainte check,قيد التحقق,9ayd t-ta7a99o9,a rule that limits the values a column is allowed to hold
+cascade delete,suppression en cascade,الحذف المتتابع,l-7adhf l-motatabi3,deleting a row also deletes the rows linked to it in other tables
+natural key,clé naturelle,مفتاح طبيعي,miftah tabi3i,"a key that already exists in the real data, like an email address"
