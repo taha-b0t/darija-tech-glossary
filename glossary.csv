@@ -909,3 +909,8 @@ min,minimum,الحد الأدنى,l-hadd l-adna,the smallest value in a column
 max,maximum,الحد الأقصى,l-hadd l-a3la,the largest value in a column
 alias,alias,اسم مستعار,ism mosta3ar,a short temporary name given to a column or a table in a query
 wildcard,caractère joker,حرف بدل,harf badal,a special character like % or _ that stands for any characters in a pattern
+airdrop,airdrop,إيردروب,airdrop,Apple's way to share files wirelessly between nearby devices
+quick share,partage rapide,مشاركة سريعة,mocharaka sari3a,sending a file or a link quickly to a nearby device or app
+auto save,enregistrement automatique,حفظ تلقائي,hifd til9a'i,saving your work automatically without you pressing save
+spell check,vérification orthographique,تدقيق إملائي,tad9i9 imla'i,checking the spelling of words as you type
+recent files,fichiers récents,ملفات حديثة,milaffat haditha,"the files you opened most recently, shown for quick access"
