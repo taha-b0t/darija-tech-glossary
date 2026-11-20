@@ -904,3 +904,8 @@ language,langue,اللغة,l-lougha,the language used by the phone and its apps
 time zone,fuseau horaire,المنطقة الزمنية,l-minta9a z-zamaniya,the region that sets the local time on a device
 accessibility,accessibilité,إمكانية الوصول,imkaniyat l-wosoul,settings that make the phone easier to use for everyone
 date and time,date et heure,التاريخ والوقت,t-tarikh w l-wa9t,the date and clock settings on a device
+average,moyenne,المتوسط,l-moutawassit,"the mean value of a column, the sum divided by the count"
+min,minimum,الحد الأدنى,l-hadd l-adna,the smallest value in a column
+max,maximum,الحد الأقصى,l-hadd l-a3la,the largest value in a column
+alias,alias,اسم مستعار,ism mosta3ar,a short temporary name given to a column or a table in a query
+wildcard,caractère joker,حرف بدل,harf badal,a special character like % or _ that stands for any characters in a pattern
