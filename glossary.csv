@@ -919,3 +919,8 @@ concat,concaténation,ربط النصوص,rabt n-nosos,joining two or more text 
 round,arrondi,التقريب,ta9rib,rounding a number to the nearest whole number or to a set number of decimals
 unique constraint,contrainte d'unicité,قيد التفرد,9ayd t-tafarrud,a rule that makes sure no two rows in a table share the same value in a column
 default value,valeur par défaut,قيمة افتراضية,9ima iftiradya,the value a column gets automatically when no value is given on insert
+reference data,données référentielles,معطيات مرجعية,ma3loumat marji3iya,"slow-changing lookup data used to classify or describe other data, like country codes"
+master data,données maîtres,المعطيات الرئيسية,l-ma3loumat r-ra'isiya,"the most important shared data of an organisation, like customers, products and suppliers"
+golden record,enregistrement de référence,السجل الذهبي,s-sijl d-dahabi,the single best agreed version of a record built from several conflicting sources
+data monetization,monétisation des données,تحقيق الربح من المعطيات,tah9i9 r-ribh min l-ma3loumat,"earning money from data, by selling it or using it to create value"
+transactional data,données transactionnelles,معطيات المعاملات,ma3loumat l-mo3amalat,"data created by day-to-day operations, like orders and payments"
