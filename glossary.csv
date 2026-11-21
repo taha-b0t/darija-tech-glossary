@@ -949,3 +949,8 @@ union all,union all,يونيون أول,union all,combines query results and kee
 varchar,varchar,فاركار,varchar,variable-length text column type in a database
 timestamp,horodatage,الطابع الزمني,t-tabi3 z-zamani,a date and time value
 except,except,إكسبت,except,returns rows in the first query that are not in the second
+front camera,caméra avant,الكاميرا الأمامية,l-camera l-amamiya,the selfie camera on the front of the phone
+rear camera,caméra arrière,الكاميرا الخلفية,l-camera l-khalfiya,the main camera on the back of the phone
+camera flash,flash de l'appareil photo,فلاش الكاميرا,flash l-camera,the light that fires when taking a photo in the dark
+HDR,HDR,إتش دي آر,HDR,combines several exposures for better light and shadow
+burst mode,mode rafale,وضع التصوير المتتابع,wad3 t-taswir l-mutatabi3,takes many photos in a row with one press
