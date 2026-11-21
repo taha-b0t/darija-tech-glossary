@@ -969,3 +969,8 @@ few-shot learning,apprentissage few-shot,التعلم بأمثلة قليلة,ta
 context window,fenêtre de contexte,نافذة السياق,nafidat s-siyaq,how much text a model can see at once
 system prompt,consigne système,تعليمات النظام,ta3limat n-nidam,hidden instructions that set how an AI behaves
 AI agent,agent IA,وكيل الذكاء الاصطناعي,wakil d-daka2 l-istina3i,an AI that can take actions on its own
+mobile banking,banque mobile,البنك عبر الهاتف,l-bank 3abr l-hatif,managing your bank account from your phone
+food delivery,livraison de repas,توصيل الطعام,tawsil t-ta3am,ordering meals to your door from an app
+ride hailing,transport à la demande,طلب سيارة عبر التطبيق,talab sayyara 3abr t-tatbiq,booking a car with a driver from an app
+streaming service,service de streaming,خدمة البث,khidmat l-bath,a platform for watching films and series online
+social media,réseaux sociaux,وسائل التواصل الاجتماعي,wasa2il t-tawasol l-ijtima3i,apps for sharing posts and following people
