@@ -954,3 +954,8 @@ rear camera,caméra arrière,الكاميرا الخلفية,l-camera l-khalfiya
 camera flash,flash de l'appareil photo,فلاش الكاميرا,flash l-camera,the light that fires when taking a photo in the dark
 HDR,HDR,إتش دي آر,HDR,combines several exposures for better light and shadow
 burst mode,mode rafale,وضع التصوير المتتابع,wad3 t-taswir l-mutatabi3,takes many photos in a row with one press
+in operator,opérateur in,معامل إن,mo3amil in,tests whether a value matches a list of values
+is not null,n'est pas nul,ماشي فارغ,machi farigh,checks that a value is present and not empty
+self join,auto-jointure,الربط الذاتي,r-rbat d-dati,a table joined to itself to compare rows within it
+natural join,jointure naturelle,الربط الطبيعي,r-rbat t-tabi3i,joins tables on columns with the same name
+intersect,intersection,التقاطع,t-ta9ato3,returns only the rows common to two queries
