@@ -959,3 +959,8 @@ is not null,n'est pas nul,ماشي فارغ,machi farigh,checks that a value is 
 self join,auto-jointure,الربط الذاتي,r-rbat d-dati,a table joined to itself to compare rows within it
 natural join,jointure naturelle,الربط الطبيعي,r-rbat t-tabi3i,joins tables on columns with the same name
 intersect,intersection,التقاطع,t-ta9ato3,returns only the rows common to two queries
+camera lens,objectif de l'appareil photo,عدسة الكاميرا,3adasat l-camera,the glass that focuses light onto the sensor
+macro mode,mode macro,وضع الماكرو,wad3 l-macro,close-up mode for tiny subjects like flowers or insects
+pro mode,mode pro,الوضع الاحترافي,l-wad3 l-ihtirafi,manual camera mode with control over ISO and shutter speed
+live photo,photo live,صورة حية,sora haya,a still photo that also captures a few seconds of motion
+optical zoom,zoom optique,الزوم البصري,z-zoom l-basari,zooms with the lens so the image stays sharp
