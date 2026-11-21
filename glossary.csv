@@ -964,3 +964,8 @@ macro mode,mode macro,وضع الماكرو,wad3 l-macro,close-up mode for tiny 
 pro mode,mode pro,الوضع الاحترافي,l-wad3 l-ihtirafi,manual camera mode with control over ISO and shutter speed
 live photo,photo live,صورة حية,sora haya,a still photo that also captures a few seconds of motion
 optical zoom,zoom optique,الزوم البصري,z-zoom l-basari,zooms with the lens so the image stays sharp
+zero-shot learning,apprentissage zéro-shot,التعلم بدون أمثلة,ta3allom bidoun amtila,"learning from a description only, with no examples"
+few-shot learning,apprentissage few-shot,التعلم بأمثلة قليلة,ta3allom bi-amtila qalila,learning from just a handful of examples
+context window,fenêtre de contexte,نافذة السياق,nafidat s-siyaq,how much text a model can see at once
+system prompt,consigne système,تعليمات النظام,ta3limat n-nidam,hidden instructions that set how an AI behaves
+AI agent,agent IA,وكيل الذكاء الاصطناعي,wakil d-daka2 l-istina3i,an AI that can take actions on its own
