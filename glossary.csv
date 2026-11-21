@@ -974,3 +974,8 @@ food delivery,livraison de repas,توصيل الطعام,tawsil t-ta3am,ordering
 ride hailing,transport à la demande,طلب سيارة عبر التطبيق,talab sayyara 3abr t-tatbiq,booking a car with a driver from an app
 streaming service,service de streaming,خدمة البث,khidmat l-bath,a platform for watching films and series online
 social media,réseaux sociaux,وسائل التواصل الاجتماعي,wasa2il t-tawasol l-ijtima3i,apps for sharing posts and following people
+knowledge distillation,distillation des connaissances,تقطير المعرفة,taqtir l-ma3rifa,compressing a large model into a smaller one
+chain of thought,chaîne de pensée,سلسلة التفكير,silsilat t-tafkir,prompting a model to reason step by step
+multimodal,multimodal,متعدد الوسائط,mouta3addid l-wasa2it,handling text image and audio together
+grounding,ancrage,تأصيل,ta2sil,tying model output to real sources or facts
+semantic search,recherche sémantique,بحث دلالي,baht dilali,search by meaning not exact keywords
