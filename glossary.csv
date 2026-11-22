@@ -994,3 +994,8 @@ gift card,carte cadeau,بطاقة هدية,bitaqat hadiya,a prepaid card to spen
 coupon,coupon de réduction,قسيمة خصم,qasimat khasem,a code that lowers the price at checkout
 customer support,service client,خدمة الزبائن,khidmat z-zboun,help from a company when something goes wrong
 delivery address,adresse de livraison,عنوان التوصيل,3ounwan t-tawsil,where an order is sent
+data snapshot,instantané de données,لقطة المعطيات,laqta l-ma3loumat,a copy of data as it was at one moment in time
+data throughput,débit de données,معدل تدفق المعطيات,mo3addal tadaffoq l-ma3loumat,how much data passes through a system per second
+data residency,résidence des données,إقامة المعطيات,iqamat l-ma3loumat,"where data is physically stored, by law or by policy"
+data sovereignty,souveraineté des données,سيادة المعطيات,siyadat l-ma3loumat,a country's control over the data inside its borders
+data integrity,intégrité des données,سلامة المعطيات,salamat l-ma3loumat,data staying accurate and unaltered
