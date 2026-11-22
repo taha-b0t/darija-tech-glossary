@@ -1014,3 +1014,8 @@ e-ticket,billet électronique,تذكرة إلكترونية,tadkira electroniya,
 qr code payment,paiement par QR code,الدفع برمز QR,d-daf3 b-ramz QR,scan to pay
 order history,historique des commandes,سجل الطلبات,sijill t-talabat,past orders in the app
 delivery tracking,suivi de livraison,تتبع التوصيل,tatabbu3 t-tawsil,follow a parcel in real time
+model quantization,quantification de modèle,تكميم النموذج,takmim n-namoudaj,shrinking a trained model so it uses fewer bits per weight and runs faster with less memory
+inference engine,moteur d'inférence,محرك الاستدلال,mouharrik l-istidlal,the software that runs a trained model on new inputs to produce predictions
+prompt template,modèle d'invite,قالب البرومبت,qalib l-prompt,"a reusable prompt with blanks to fill in, so the same instruction can be used many times"
+model compression,compression de modèle,ضغط النموذج,daght n-namoudaj,"making a trained model smaller, for example by removing unneeded weights, so it fits on a phone"
+AI assistant,assistant IA,مساعد الذكاء الاصطناعي,mossa3id d-daka2 l-istina3i,an app that answers questions and does tasks for you using AI
