@@ -1007,5 +1007,10 @@ video editor,éditeur vidéo,محرر الفيديو,moharrir l-video,an app to 
 temperature,température,درجة الحرارة,darajat l-harara,controls how random an LLM's output is
 top-p sampling,échantillonnage top-p,العينة الأعلى احتمالا,l-3ayna l-a3la i7timalan,nucleus sampling; picks from the most likely tokens
 token limit,limite de jetons,حد الرموز,hadd r-roumouz,max tokens a model can handle in one request
-context length,longueur du contexte,طول السياق,toul s-siyaq,how much text a model can see at once
+context length,longueur du contexte,طول السياق,toul s-siyaq,the maximum text a model reads in one go
 embedding model,modèle d'embedding,نموذج التضمين,namoudaj t-tadmin,turns text into vectors for search
+boarding pass,carte d'embarquement,بطاقة الصعود,bitaqat s-sou3oud,shown at the airport gate
+e-ticket,billet électronique,تذكرة إلكترونية,tadkira electroniya,"digital ticket, no paper needed"
+qr code payment,paiement par QR code,الدفع برمز QR,d-daf3 b-ramz QR,scan to pay
+order history,historique des commandes,سجل الطلبات,sijill t-talabat,past orders in the app
+delivery tracking,suivi de livraison,تتبع التوصيل,tatabbu3 t-tawsil,follow a parcel in real time
