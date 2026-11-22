@@ -1004,3 +1004,8 @@ outbox,boîte d'envoi,صندوق الصادر,sandouq s-sadir,where emails wait 
 favorites,favoris,المفضلة,l-mofaddala,items you marked to find them quickly
 file explorer,explorateur de fichiers,مستكشف الملفات,mostakchif l-milaffat,the app that shows your folders and files
 video editor,éditeur vidéo,محرر الفيديو,moharrir l-video,an app to cut and assemble video clips
+temperature,température,درجة الحرارة,darajat l-harara,controls how random an LLM's output is
+top-p sampling,échantillonnage top-p,العينة الأعلى احتمالا,l-3ayna l-a3la i7timalan,nucleus sampling; picks from the most likely tokens
+token limit,limite de jetons,حد الرموز,hadd r-roumouz,max tokens a model can handle in one request
+context length,longueur du contexte,طول السياق,toul s-siyaq,how much text a model can see at once
+embedding model,modèle d'embedding,نموذج التضمين,namoudaj t-tadmin,turns text into vectors for search
