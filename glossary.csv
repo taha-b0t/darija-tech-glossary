@@ -984,3 +984,8 @@ app badge,badge d'application,شارة التطبيق,charat t-tatbiq,the count 
 e-commerce,commerce électronique,التجارة الإلكترونية,t-tijara l-iliktroniya,buying and selling online
 online payment,paiement en ligne,الدفع عبر الإنترنت,d-daf3 3abr l-internet,paying for something on the internet
 live location,localisation en direct,الموقع المباشر,l-mawqi3 l-moubachir,sharing where you are in real time
+parameter,paramètre,المعلمة,l-ma3lama,"a value the model learns during training, like a weight"
+model card,fiche de modèle,بطاقة النموذج,bitaqat n-namoudaj,"a document describing a model's purpose, limits and training data"
+training loop,boucle d'entraînement,حلقة التدريب,halqat t-tadrib,"the repeated cycle of feeding data, measuring error and updating the model"
+deep neural network,réseau de neurones profond,شبكة عصبية عميقة,chabaka 3asabiya 3amiqa,a neural network with many hidden layers
+feedback loop,boucle de rétroaction,حلقة التغذية الراجعة,halqat t-taghdhiya r-raji3a,output fed back as input to improve a system
