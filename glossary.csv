@@ -999,3 +999,8 @@ data throughput,débit de données,معدل تدفق المعطيات,mo3addal t
 data residency,résidence des données,إقامة المعطيات,iqamat l-ma3loumat,"where data is physically stored, by law or by policy"
 data sovereignty,souveraineté des données,سيادة المعطيات,siyadat l-ma3loumat,a country's control over the data inside its borders
 data integrity,intégrité des données,سلامة المعطيات,salamat l-ma3loumat,data staying accurate and unaltered
+inbox,boîte de réception,صندوق الوارد,sandouq l-warid,where incoming emails arrive
+outbox,boîte d'envoi,صندوق الصادر,sandouq s-sadir,where emails wait before they are sent
+favorites,favoris,المفضلة,l-mofaddala,items you marked to find them quickly
+file explorer,explorateur de fichiers,مستكشف الملفات,mostakchif l-milaffat,the app that shows your folders and files
+video editor,éditeur vidéo,محرر الفيديو,moharrir l-video,an app to cut and assemble video clips
