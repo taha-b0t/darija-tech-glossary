@@ -1039,3 +1039,8 @@ data compaction,compaction des données,دمج ملفات المعطيات,damj 
 data partitioning,partitionnement des données,تقسيم المعطيات,taqsim l-ma3loumat,"splitting a table or files into parts, usually by a key like a date"
 incremental snapshot,instantané incrémental,لقطة تزايدية,laqta tazayudiya,a copy that only saves what changed since the last snapshot
 data engineering,ingénierie des données,هندسة البيانات,handasat l-bayanat,building the pipelines and systems that move and store data
+bank transfer,virement bancaire,تحويل بنكي,tahwil banki,sending money from one bank account to another
+direct debit,prélèvement automatique,الاقتطاع التلقائي,l-iqtita3 t-tilqa'i,"a company takes a payment from your account automatically, for example a monthly bill"
+exchange rate,taux de change,سعر الصرف,si3r s-sarf,how much one currency is worth in another currency
+ATM,guichet automatique,الصراف الآلي,s-sarraf l-ali,a machine that gives you cash when you use a bank card
+credit card,carte de crédit,بطاقة الائتمان,bitaqat l-i'timan,a card that lets you pay now while the bank bills you later
