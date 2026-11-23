@@ -1024,3 +1024,8 @@ app download,téléchargement d'application,تحميل التطبيق,tahmil t-t
 USB-C,USB-C,يو إس بي سي,USB-C,the small oval reversible port used to charge and connect most modern phones
 screen recorder,enregistreur d'écran,مسجل الشاشة,moussajjil ch-chacha,an app or tool that films what is shown on your screen
 google account,compte Google,حساب غوغل,hisab google,"the Google login that links your Gmail, Drive and Play Store"
+idempotency,idempotence,التكرار الآمن,t-tikrar l-amin,running the same operation twice gives the same result as running it once
+exactly-once processing,traitement exactement une fois,المعالجة مرة واحدة فقط,l-mo3alaja marra wa7da fa9at,"each record is processed exactly once, no duplicates and no loss"
+at-least-once delivery,livraison au moins une fois,التسليم مرة واحدة على الأقل,t-taslim marra wa7da 3la l-a9al,each record is delivered once or more; duplicates are possible
+upsert,insertion ou mise à jour,إدراج أو تحديث,idraj aw ta7dit,"insert a row, or update it if it already exists"
+late-arriving data,données arrivant en retard,معطيات تصل متأخرة,ma3loumat tasil motaakhira,records that arrive after their event-time window has closed
