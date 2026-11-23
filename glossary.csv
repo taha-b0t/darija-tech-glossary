@@ -1034,3 +1034,8 @@ noise cancellation,réduction du bruit,إلغاء الضوضاء,il8a2 d-dawda2,
 speed test,test de vitesse,اختبار السرعة,ikhtibar s-sor3a,measure download and upload speed of a connection
 download speed,vitesse de téléchargement,سرعة التحميل,sor3at t-ta7mil,how fast data comes from the internet to the device
 upload speed,vitesse d'envoi,سرعة الرفع,sor3at r-raf3,how fast data goes from the device to the internet
+data reconciliation,réconciliation des données,مطابقة المعطيات,moutabaqat l-ma3loumat,checking two copies of the same data to make sure they agree
+data compaction,compaction des données,دمج ملفات المعطيات,damj milafat l-ma3loumat,rewriting many small data files into fewer bigger ones
+data partitioning,partitionnement des données,تقسيم المعطيات,taqsim l-ma3loumat,"splitting a table or files into parts, usually by a key like a date"
+incremental snapshot,instantané incrémental,لقطة تزايدية,laqta tazayudiya,a copy that only saves what changed since the last snapshot
+data engineering,ingénierie des données,هندسة البيانات,handasat l-bayanat,building the pipelines and systems that move and store data
