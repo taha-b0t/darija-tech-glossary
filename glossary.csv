@@ -1044,3 +1044,8 @@ direct debit,prélèvement automatique,الاقتطاع التلقائي,l-iqtit
 exchange rate,taux de change,سعر الصرف,si3r s-sarf,how much one currency is worth in another currency
 ATM,guichet automatique,الصراف الآلي,s-sarraf l-ali,a machine that gives you cash when you use a bank card
 credit card,carte de crédit,بطاقة الائتمان,bitaqat l-i'timan,a card that lets you pay now while the bank bills you later
+schema inference,inférence de schéma,استدلال المخطط,istidlal l-moukhattat,"guessing the structure of data from a sample, instead of declaring it in advance"
+metadata management,gestion des métadonnées,تدبير البيانات الوصفية,tadbir l-bayanat l-wasfiya,"organizing the data that describes other data: owners, definitions and lineage"
+data quality rules,règles de qualité des données,قواعد جودة المعطيات,qawa3id jawdat l-ma3loumat,"checks that data must pass, for example no missing values in a key column"
+validation rules,règles de validation,قواعد التحقق,qawa3id t-tahaqquq,conditions that decide whether a value is accepted or rejected
+data governance framework,cadre de gouvernance des données,إطار حوكمة المعطيات,itar hawkamat l-ma3loumat,"the set of policies, roles and processes that control how data is used"
