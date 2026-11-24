@@ -1089,3 +1089,8 @@ data marketplace,place de marché des données,سوق المعطيات,souq l-ma
 data quality dashboard,tableau de bord de la qualité des données,لوحة متابعة جودة المعطيات,lawhat motaba3at jawdat l-ma3loumat,a dashboard showing data quality metrics and issues
 data retention policy,politique de rétention des données,سياسة الاحتفاظ بالمعطيات,siyasat l-ihtifad bil-ma3loumat,rules for how long data is kept before it is deleted
 data cataloging,catalogage des données,فهرسة المعطيات,fahrassat l-ma3loumat,the process of organizing data assets into a searchable catalog
+arrival gate,porte d'arrivée,بوابة الوصول,bawwabat l-wosoul,the airport gate where arriving passengers exit the plane
+baggage claim,retrait des bagages,استلام الأمتعة,istilam l-amti3a,the area where passengers collect their checked luggage
+carry-on luggage,bagage à main,حقيبة اليد,haqibat l-yad,a small bag a passenger carries onto the plane
+travel adapter,adaptateur de voyage,محول السفر,mohawwil s-safar,a plug adapter for using electronics in another country
+layover,escale,توقف مؤقت,tawaqqof mo'aqqat,a stop between two flights on the same trip
