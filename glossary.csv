@@ -1064,3 +1064,8 @@ passport,passeport,جواز السفر,jawaz s-safar,"an official document neede
 visa application,demande de visa,طلب التأشيرة,talab t-ta2chira,"a request to enter another country"
 bank account,compte bancaire,حساب بنكي,7isab banki,"an account at a bank for keeping money"
 savings account,compte épargne,حساب التوفير,7isab t-tawfir,"a bank account for saving money and earning interest"
+data flow,flux de données,تدفق المعطيات,tadaffuq l-ma3loumat,the path data follows from a source system to a destination
+data extraction,extraction de données,استخراج المعطيات,istikhraj l-ma3loumat,taking data out of a source system so it can be used elsewhere
+data loading,chargement de données,تحميل المعطيات,ta7mil l-ma3loumat,writing data into a target system such as a warehouse
+data export,exportation de données,تصدير المعطيات,tasdir l-ma3loumat,sending data out of a system into a file or another system
+data backup,sauvegarde de données,نسخ احتياطي للمعطيات,naskh i7tiyati lil-ma3loumat,a copy of data kept to restore it after a loss
