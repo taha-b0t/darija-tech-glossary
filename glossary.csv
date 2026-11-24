@@ -1079,3 +1079,8 @@ data pipeline orchestration,orchestration de pipeline de données,تنسيق خ�
 data schema design,conception de schéma de données,تصميم مخطط المعطيات,tasmim mokhattat l-ma3loumat,planning the tables and fields of a dataset
 data access control,contrôle d'accès aux données,التحكم في الوصول إلى المعطيات,t-ta7akkoum fi l-wosoul ila l-ma3loumat,rules that decide who can read or change data
 data filtering,filtrage des données,تصفية المعطيات,tasfiyat l-ma3loumat,keeping only the rows that match a condition
+travel agency,agence de voyage,وكالة السفر,wakalat s-safar,a business that arranges trips and holidays for travellers
+luggage,bagages,الأمتعة,l-amti3a,the bags and suitcases a traveller carries
+hotel room,chambre d'hôtel,غرفة الفندق,ghorfat l-fondouq,a room in a hotel where a guest sleeps
+travel itinerary,itinéraire de voyage,برنامج الرحلة,barnamaj r-ri7la,the planned route and schedule of a trip
+departure gate,porte d'embarquement,بوابة المغادرة,bawabat l-moughadara,the airport gate where passengers board a plane
