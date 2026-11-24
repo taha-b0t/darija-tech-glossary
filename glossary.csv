@@ -1084,3 +1084,8 @@ luggage,bagages,الأمتعة,l-amti3a,the bags and suitcases a traveller carri
 hotel room,chambre d'hôtel,غرفة الفندق,ghorfat l-fondouq,a room in a hotel where a guest sleeps
 travel itinerary,itinéraire de voyage,برنامج الرحلة,barnamaj r-ri7la,the planned route and schedule of a trip
 departure gate,porte d'embarquement,بوابة المغادرة,bawabat l-moughadara,the airport gate where passengers board a plane
+data sharing,partage des données,مشاركة المعطيات,mocharakat l-ma3loumat,making data available to other people or systems
+data marketplace,place de marché des données,سوق المعطيات,souq l-ma3loumat,a platform where data products are bought and sold
+data quality dashboard,tableau de bord de la qualité des données,لوحة متابعة جودة المعطيات,lawhat motaba3at jawdat l-ma3loumat,a dashboard showing data quality metrics and issues
+data retention policy,politique de rétention des données,سياسة الاحتفاظ بالمعطيات,siyasat l-ihtifad bil-ma3loumat,rules for how long data is kept before it is deleted
+data cataloging,catalogage des données,فهرسة المعطيات,fahrassat l-ma3loumat,the process of organizing data assets into a searchable catalog
