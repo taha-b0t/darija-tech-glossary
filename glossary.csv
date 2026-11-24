@@ -1054,3 +1054,8 @@ hotel booking,réservation d'hôtel,حجز الفندق,hajz l-funduq,reserving 
 delivery fee,frais de livraison,رسوم التوصيل,rusum t-tawsil,the extra amount charged to bring an order to your address
 loyalty program,programme de fidélité,برنامج الولاء,barnamaj l-walaa,"a system that rewards customers who buy again and again, with points or discounts"
 customer review,avis client,تقييم الزبون,taqyim z-zabun,"a customer's written opinion about a product or a service, shared for other buyers"
+data synchronization,synchronisation des données,مزامنة المعطيات,mouzamana l-ma3loumat,"keeping the same data consistent across systems"
+data recovery,récupération des données,استرجاع المعطيات,istirja3 l-ma3loumat,"restoring lost or corrupted data from a backup"
+data producer,producteur de données,منتج البيانات,mountij l-bayanat,"a system or application that creates data for a pipeline"
+data quality engineer,ingénieur qualité des données,مهندس جودة المعطيات,mouhandis jawdat l-ma3loumat,"a specialist who checks and improves the quality of data"
+schema validation,validation de schéma,التحقق من المخطط,ata7a9o9 min l-moukhattat,"checking that data matches the expected schema before loading it"
