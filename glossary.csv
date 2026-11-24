@@ -1074,3 +1074,8 @@ travel guide,guide de voyage,دليل السفر,dalil s-safar,a book or app tha
 tourist visa,visa touristique,تأشيرة سياحية,ta2chira siya7iya,a visa for visiting a country as a tourist
 currency exchange,change de devises,صرف العملات,sarf l-3oumlat,changing money from one currency to another
 debit card,carte de débit,بطاقة الخصم,bitaqat l-khasm,a bank card that takes money directly from your account
+data quality monitoring,surveillance de la qualité des données,متابعة جودة المعطيات,moutaba3at jawdat l-ma3loumat,watching data quality over time so problems are caught early
+data pipeline orchestration,orchestration de pipeline de données,تنسيق خط أنابيب المعطيات,tansiq khat anabib l-ma3loumat,scheduling and coordinating the steps of a data pipeline
+data schema design,conception de schéma de données,تصميم مخطط المعطيات,tasmim mokhattat l-ma3loumat,planning the tables and fields of a dataset
+data access control,contrôle d'accès aux données,التحكم في الوصول إلى المعطيات,t-ta7akkoum fi l-wosoul ila l-ma3loumat,rules that decide who can read or change data
+data filtering,filtrage des données,تصفية المعطيات,tasfiyat l-ma3loumat,keeping only the rows that match a condition
