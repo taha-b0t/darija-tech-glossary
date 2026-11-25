@@ -1099,3 +1099,8 @@ data pipeline testing,test de pipeline de données,اختبار أنابيب ا�
 data contract testing,test de contrat de données,اختبار عقد المعطيات,ikhtibar 3aqd l-ma3loumat,checking that a data contract's promises still hold
 data lineage graph,graphe de lignage des données,رسم بياني لتتبع المعطيات,rasm bayani li-tatabbo3 l-ma3loumat,a diagram showing how data flows from source to use
 data warehouse modeling,modélisation d'entrepôt de données,نمذجة مستودع المعطيات,namdhajat mostawda3 l-ma3loumat,designing tables and relationships in a warehouse
+cover photo,photo de couverture,صورة الغلاف,sourat l-ghilaf,the wide banner image at the top of a profile
+bio,biographie,نبذة تعريفية,nobdha ta3rifiya,a short text describing a person on their profile
+story viewer,visionneuse de stories,عارض الستوري,3arid s-story,the screen where you watch someone's story
+chat theme,thème de discussion,سمة المحادثة,simat l-mohadatha,the colours and background of a chat window
+pinned message,message épinglé,رسالة مثبتة,risala mothabbata,a message kept at the top of a chat for easy access
