@@ -1124,3 +1124,8 @@ group admin,administrateur de groupe,مدير المجموعة,modir l-majmou3a,
 send location,envoyer sa position,إرسال الموقع,irsal l-mawqi3,sharing your current place in a chat
 chat history,historique des conversations,سجل المحادثات,sijil l-mo7adathat,the saved record of past messages
 call duration,durée d'appel,مدة المكالمة,moddat l-mokalama,how long a call lasted
+data pipeline automation,automatisation des pipelines de données,أتمتة أنابيب المعطيات,atmatat anabib l-ma3loumat,running data pipelines on a schedule without manual triggers
+data lakehouse architecture,architecture de lakehouse,بنية بحيرة المعطيات الموحدة,binyat bohayrat l-ma3loumat l-mowahhada,how storage compute and governance are organised in a lakehouse
+data quality dimensions,dimensions de la qualité des données,أبعاد جودة المعطيات,ab3ad jawdat l-ma3loumat,accuracy completeness consistency and timeliness as measures of data quality
+real-time ingestion,ingestion en temps réel,الإدخال الفوري للمعطيات,l-idkhal l-fawri lil-ma3loumat,loading data into a system as soon as it is produced
+data product owner,propriétaire de produit de données,مالك منتج المعطيات,malik mountoj l-ma3loumat,person accountable for a data product and its users
