@@ -1094,3 +1094,8 @@ baggage claim,retrait des bagages,استلام الأمتعة,istilam l-amti3a,t
 carry-on luggage,bagage à main,حقيبة اليد,haqibat l-yad,a small bag a passenger carries onto the plane
 travel adapter,adaptateur de voyage,محول السفر,mohawwil s-safar,a plug adapter for using electronics in another country
 layover,escale,توقف مؤقت,tawaqqof mo'aqqat,a stop between two flights on the same trip
+data reliability engineering,ingénierie de la fiabilité des données,هندسة موثوقية المعطيات,handasat mawthouqiyat l-ma3loumat,engineering practices that keep data systems dependable
+data pipeline testing,test de pipeline de données,اختبار أنابيب المعطيات,ikhtibar anabib l-ma3loumat,testing a pipeline's steps before it runs in production
+data contract testing,test de contrat de données,اختبار عقد المعطيات,ikhtibar 3aqd l-ma3loumat,checking that a data contract's promises still hold
+data lineage graph,graphe de lignage des données,رسم بياني لتتبع المعطيات,rasm bayani li-tatabbo3 l-ma3loumat,a diagram showing how data flows from source to use
+data warehouse modeling,modélisation d'entrepôt de données,نمذجة مستودع المعطيات,namdhajat mostawda3 l-ma3loumat,designing tables and relationships in a warehouse
