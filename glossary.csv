@@ -1129,3 +1129,8 @@ data lakehouse architecture,architecture de lakehouse,بنية بحيرة الم
 data quality dimensions,dimensions de la qualité des données,أبعاد جودة المعطيات,ab3ad jawdat l-ma3loumat,accuracy completeness consistency and timeliness as measures of data quality
 real-time ingestion,ingestion en temps réel,الإدخال الفوري للمعطيات,l-idkhal l-fawri lil-ma3loumat,loading data into a system as soon as it is produced
 data product owner,propriétaire de produit de données,مالك منتج المعطيات,malik mountoj l-ma3loumat,person accountable for a data product and its users
+group invite link,lien d'invitation au groupe,رابط دعوة المجموعة,rabit da3wat l-majmou3a,a link that lets people join a group chat
+message scheduling,programmation des messages,جدولة الرسائل,jadwalat r-rasa'il,writing a message now to be sent later automatically
+chat wallpaper,fond d'écran de discussion,خلفية المحادثة,khalfiyat l-mouhadatha,the background image of a chat window
+online status,statut en ligne,حالة الاتصال,halat l-ittisal,whether a contact is currently online in the app
+message draft,brouillon de message,مسودة رسالة,mouswaddat risala,an unsent message saved to finish later
