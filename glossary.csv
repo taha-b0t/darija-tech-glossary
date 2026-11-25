@@ -1114,3 +1114,8 @@ comment reply,réponse à un commentaire,الرد على تعليق,r-radd 3la t
 share to story,partager en story,المشاركة في الستوري,l-mocharaka f s-story,posting someone else's post to your own story
 follow request,demande d'abonnement,طلب متابعة,talab motaba3a,a request to follow a private account
 disappearing message,message éphémère,رسالة تختفي,risala t-khtafi,a message that deletes itself after being read
+data quality scorecard,fiche de score de la qualité des données,بطاقة تقييم جودة المعطيات,bitaqat taqyim jawdat l-ma3loumat,a scorecard grading a dataset against quality rules
+metadata catalog,catalogue de métadonnées,فهرس البيانات الوصفية,fahras l-bayanat l-wasfiya,a searchable inventory of metadata across systems
+data pipeline monitoring,surveillance des pipelines de données,مراقبة أنابيب المعطيات,mouraqabat anabib l-ma3loumat,watching pipelines for failures and delays
+data drift detection,détection de la dérive des données,كشف انحراف المعطيات,kachf in7iraf l-ma3loumat,spotting when incoming data shifts from its expected pattern
+batch processing,traitement batch,المعالجة على دفعات,l-mo3alaja 3la dofa3at,processing data in large groups at scheduled times
