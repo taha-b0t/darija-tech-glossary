@@ -1109,3 +1109,8 @@ data portability,portabilité des données,قابلية نقل المعطيات,
 data sharing agreement,accord de partage de données,اتفاقية مشاركة المعطيات,ittifaqiyat mocharakat l-ma3loumat,a contract that sets the rules for sharing data
 data quality alert,alerte de qualité des données,تنبيه جودة المعطيات,tanbih jawdat l-ma3loumat,a warning sent when a data quality check fails
 data governance policy,politique de gouvernance des données,سياسة حوكمة المعطيات,siyasat hawkamat l-ma3loumat,the rules that say who can use data and how
+story reply,réponse à une story,الرد على الستوري,r-radd 3la s-story,a reply sent to someone's story
+comment reply,réponse à un commentaire,الرد على تعليق,r-radd 3la ta3liq,a reply to a comment under a post
+share to story,partager en story,المشاركة في الستوري,l-mocharaka f s-story,posting someone else's post to your own story
+follow request,demande d'abonnement,طلب متابعة,talab motaba3a,a request to follow a private account
+disappearing message,message éphémère,رسالة تختفي,risala t-khtafi,a message that deletes itself after being read
